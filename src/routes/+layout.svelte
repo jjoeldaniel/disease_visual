@@ -58,7 +58,7 @@
 <AppShell>
 	<svelte:fragment slot="header">
 		<AppBar
-			padding="md:pt-0 md:pb-0 pt-5 pb-5"
+			padding="pt-2 pb-2 md:pt-0 md:pb-0"
 			gridColumns="grid-cols-3"
 			slotDefault="place-self-center"
 			slotTrail="place-content-end"
@@ -110,7 +110,11 @@
 				</div>
 			</svelte:fragment>
 			<h4 class="h4 font-bold gradient-heading"><a href="/">Disease Visualizer</a></h4>
-			<svelte:fragment slot="trail"><LightSwitch /></svelte:fragment>
+			<svelte:fragment slot="trail"
+				><div class="pr-3">
+					<LightSwitch />
+				</div></svelte:fragment
+			>
 		</AppBar>
 	</svelte:fragment>
 	<slot />
