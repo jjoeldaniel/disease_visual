@@ -17,13 +17,13 @@
 		<AppRailTile on:click={about}
 			><div class="flex place-items-center flex-col">
 				<span class="material-symbols-outlined"> book </span>
-				About
+				<h3 class="h3">About</h3>
 			</div></AppRailTile
 		>
 		<AppRailTile on:click={() => goto('https://github.com/jjoeldaniel/disease_visual')}
 			><div class="flex place-items-center flex-col">
 				<span class="material-symbols-outlined"> trophy </span>
-				Source Code
+				<h3 class="h3">Source Code</h3>
 			</div></AppRailTile
 		>
 	</div>
