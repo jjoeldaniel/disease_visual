@@ -1,38 +1,34 @@
-# create-svelte
+# Data Science: Disease Outbreak Simulation
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+## Group members
 
-## Creating a project
+- Melissa Huynh
+- Joel Daniel Rico
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Description of work
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+This project will use data science concepts to visualize various statistics relating to the spread of a disease. We will research the causes, identify a reliable source of data on disease spread, and practice simple deep learning algorithms. We will then clean and prepare the data for visualization, build an accessible website using SvelteKit, and visualize the data in a map, bar chart, line graph, or another type of visualization.
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Steps
 
-## Developing
+Research more about data science concepts.
+Read articles on disease predictions.
+Research on causes of foodborne illness.
+Research data sources.
+Identify a reliable source of data on disease spread.
+Practice simple deep learning algorithms.
+Clean and prepare data.
+Build an accessible website.
+Visualize data.
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Tools and resources
 
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Data science concepts
+Articles on disease predictions
+Causes of foodborne illness
+Data sources
+Reliable source of data on disease spread
+Simple deep learning algorithms
+Data cleaning and preparation tools
+Web development framework (SvelteKit)
+Visualization tools
