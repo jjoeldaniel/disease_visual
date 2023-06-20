@@ -1,4 +1,6 @@
-<div class="container pt-10 md:pt-0 pl-3 pr-3 h-full mx-auto flex justify-center items-center">
+<div
+	class="container pt-10 md:pt-0 md:pb-0 pb-10 pl-3 pr-3 h-full mx-auto flex justify-center items-center"
+>
 	<div class="space-y-5 max-w-3xl">
 		<h1 class="h1">Data Science: Disease Outbreak Analysis</h1>
 
