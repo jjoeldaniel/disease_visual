@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sb
 import matplotlib.pyplot as plt
+from sklearn import preprocessing
 
 data = pd.read_csv('newfooddata3.csv')
 print(data.head)
@@ -63,5 +64,7 @@ for row in sample.index:
     elif sample.loc[row, 'State'] in midWest:
         sample.loc[row, 'Region'] = 'Midwest'
         
-
+label_encoder = preprocessing.LabelEncoder()
+sample['Region'] = label_encoder.fit_transform(sample['Region'])
+sample['Region'].unique()
         
