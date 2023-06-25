@@ -1,0 +1,935 @@
+"Year","Month","State","Genus Species","Serotype or Genotype","Etiology Status","Location of Preparation","Illnesses","Hospitalizations","Deaths","Food Vehicle","Contaminated Ingredient"
+2009,3,"Connecticut","Escherichia coli","O157:H7","Confirmed","Office/indoor workplace",60,5,0,"chicken tenders",NA
+2009,3,"Connecticut","Shiga toxin-producing","O157:H7","Confirmed","Office/indoor workplace",60,5,0,"chicken tenders",NA
+2009,1,"Ohio","Norovirus Genogroup II","GII_12","Confirmed","Caterer (food prepared off-site from where served)",22,0,0,"sandwich, deli",NA
+2009,7,"Tennessee","Salmonella enterica","Heidelberg; Infantis","Confirmed; Confirmed","Restaurant - Sit-down dining; Caterer (food prepared off-site from where served)",53,7,0,"pork, bbq",NA
+2009,7,"Tennessee","Salmonella enterica","Heidelberg; Infantis","Confirmed; Confirmed","Restaurant - Sit-down dining; Caterer (food prepared off-site from where served)",53,7,0,"pork, bbq",NA
+2009,4,"New Hampshire","Salmonella enterica","Enteritidis","Confirmed","Other (describe in remarks)",45,1,0,"salads","egg"
+2009,4,"New Hampshire","Salmonella enterica","Enteritidis","Confirmed","Camp",133,5,0,"pudding, unspecified",NA
+2009,6,"North Dakota","Salmonella enterica","Montevideo","Confirmed","Private home/residence; Banquet Facility (food prepared and served on-site)",36,2,0,"taco meat","beef"
+2009,6,"North Dakota","Salmonella enterica","Montevideo","Confirmed","Private home/residence; Banquet Facility (food prepared and served on-site)",88,0,0,"roast beef","beef"
+2009,3,"Oregon","Salmonella enterica","Heidelberg","Confirmed","Restaurant - Sit-down dining; Private home/residence",26,8,0,"chicken","chicken"
+2009,5,"Michigan","Salmonella enterica","Saintpaul","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter); Restaurant - Sit-down dining",21,7,0,"tomatoes",NA
+2009,7,"Oregon","Salmonella enterica","Enteritidis","Confirmed","Camp",59,0,0,"scrambled eggs","egg"
+2009,5,"West Virginia","Salmonella enterica","Enteritidis","Confirmed",NA,21,9,2,"sausage, pork",NA
+2009,8,"Maryland","Salmonella enterica","Enteritidis","Confirmed","Private home/residence",27,6,0,"potato salad",NA
+2009,7,"Texas","Escherichia coli","unknown","Confirmed","Restaurant - Sit-down dining",58,0,0,"guacamole",NA
+2009,11,"Tennessee","Norovirus Genogroup II","GII_4 New Orleans (2009)","Confirmed","Restaurant - Sit-down dining",36,3,0,"salads",NA
+2009,11,"South Carolina","Salmonella enterica","Montevideo","Confirmed; Confirmed; Confirmed","Other (describe in remarks)",59,17,0,"pork, bbq",NA
+2009,7,"Washington","Salmonella enterica","Enteritidis","Confirmed","Camp",62,0,0,"eggs, scrambled",NA
+2009,8,"Colorado","Salmonella enterica","Typhimurium","Confirmed","Caterer (food prepared off-site from where served)",27,1,0,"iceberg lettuce, unspecified","lettuce"
+2010,2,"Oregon","Norovirus Genogroup II","GII_12","Confirmed","Restaurant - Sit-down dining",23,0,0,"lettuce","leaf lettuce"
+2009,9,"Ohio","Salmonella enterica","Enteritidis","Confirmed","Private home/residence",22,1,0,"pasta, unspecified",NA
+2009,12,"California","Salmonella enterica","Heidelberg","Confirmed","Restaurant - other or unknown type",22,4,0,"specialty/ethnic dishes",NA
+2010,4,"Oregon","Salmonella enterica","Enteritidis","Confirmed","Restaurant - Sit-down dining",73,3,0,"pico de gallo; guacamole",NA
+2010,2,"California","Salmonella enterica","Give","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",50,2,0,"carnitas, unspecified","pork"
+2010,4,"Ohio","Salmonella enterica","Enteritidis","Confirmed","Restaurant - Sit-down dining",56,7,0,"chilis rellenos",NA
+2010,5,"Pennsylvania","Salmonella enterica","Enteritidis","Confirmed","Restaurant - Sit-down dining; Banquet Facility (food prepared and served on-site)",37,5,0,"lasagna, beef; soup, speciality, other","egg; egg"
+2009,3,"Colorado","Salmonella enterica","Newport","Confirmed","Private home/residence",43,10,0,"green chile",NA
+2010,4,"Florida","Salmonella enterica","Anatum","Confirmed","Private home/residence; Banquet Facility (food prepared and served on-site); Other (describe in remarks)",37,1,0,"pork; chicken, bbq","pork; chicken"
+2010,6,"Ohio","Salmonella enterica","Typhimurium var Cope","Confirmed","Private home/residence",64,1,0,"pork, smoked",NA
+2010,7,"Pennsylvania","Salmonella enterica","Enteritidis","Confirmed","Other (describe in remarks)",21,1,0,"chicken and rice","chicken"
+2010,7,"Tennessee","Norovirus Genogroup II","GII_4 New Orleans (2009)","Confirmed",NA,71,0,0,"pasta salad",NA
+2010,8,"Minnesota","Salmonella enterica","Infantis","Confirmed","Private home/residence; Religious facility",21,0,0,"salads",NA
+2010,3,"California","Salmonella enterica","Typhimurium","Confirmed","Restaurant - Sit-down dining",22,2,0,"carne asada","beef"
+2010,7,"Colorado","Salmonella enterica","Enteritidis","Confirmed","Restaurant - Sit-down dining",29,4,0,"rattlesnake cake","egg"
+2010,8,"Illinois","Salmonella enterica","Infantis","Confirmed","Private home/residence",28,1,0,"fruit; cala; meatballs",NA
+2010,8,"Georgia","Salmonella enterica","Infantis","Confirmed","Restaurant - other or unknown type",74,7,0,"pork, bbq; potato salad; beans, baked; coleslaw",NA
+2010,8,"Wisconsin","Salmonella enterica","Enteritidis","Confirmed",NA,24,8,0,"ice cream, homemade",NA
+2010,6,"Colorado","Escherichia coli","O157:H7;","Confirmed; Confirmed","Other (describe in remarks)",30,2,0,"goat milk, unpasteurized","goat milk, unpasteurized"
+2010,6,"Colorado","Shiga toxin-producing","O157:H7;","Confirmed; Confirmed","Other (describe in remarks)",30,2,0,"goat milk, unpasteurized","goat milk, unpasteurized"
+2010,11,"Oklahoma","Escherichia coli","O157:H7; O84:NM","Confirmed; Confirmed","Prison/jail",21,0,0,"multiple foods",NA
+2010,11,"Oklahoma","Shiga toxin-producing","O157:H7; O84:NM","Confirmed; Confirmed","Prison/jail",21,0,0,"multiple foods",NA
+2010,11,"Oklahoma","Escherichia coli","O157:H7; O84:NM","Confirmed; Confirmed","Prison/jail",21,0,0,"multiple foods",NA
+2010,11,"Oklahoma","Shiga toxin-producing","O157:H7; O84:NM","Confirmed; Confirmed","Prison/jail",21,0,0,"multiple foods",NA
+2010,11,"Minnesota","Escherichia coli","O103:H2; O145:NM","Confirmed; Confirmed","School/college/university",29,2,0,"venison","venison"
+2010,11,"Minnesota","Shiga toxin-producing","O103:H2; O145:NM","Confirmed; Confirmed","School/college/university",29,2,0,"venison","venison"
+2010,11,"Minnesota","Escherichia coli","O103:H2; O145:NM","Confirmed; Confirmed","School/college/university",29,2,0,"venison","venison"
+2010,11,"Minnesota","Shiga toxin-producing","O103:H2; O145:NM","Confirmed; Confirmed","School/college/university",29,2,0,"venison","venison"
+2010,8,"Michigan","Salmonella enterica","Javiana","Confirmed","Long-term care/nursing home/assisted living facility",41,5,0,"potato salad","yellow onion"
+2009,12,"New Jersey","Salmonella enterica","Enteritidis","Confirmed",NA,39,5,0,"chicken, marsala; pork, other",NA
+2009,3,"Multistate","Escherichia coli","O157:H7","Confirmed","Private home/residence",77,35,NA,"cookie dough",NA
+2009,3,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Private home/residence",77,35,NA,"cookie dough",NA
+2009,2,"Multistate","Salmonella enterica","Saintpaul","Confirmed","Other (describe in remarks)",256,8,NA,"alfalfa sprouts",NA
+2009,2,"Multistate","Salmonella enterica","Carrau","Confirmed","Grocery store",53,4,1,"melon",NA
+2009,9,"Multistate","Escherichia coli","O157:H7","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",22,NA,NA,"lettuce, unspecified",NA
+2009,9,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",22,NA,NA,"lettuce, unspecified",NA
+2009,8,"Multistate","Escherichia coli","O157:H7","Confirmed","Other (describe in remarks)",32,19,2,"ground beef, other",NA
+2009,8,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Other (describe in remarks)",32,19,2,"ground beef, other",NA
+2009,7,"Multistate","Salmonella enterica","Montevideo","Confirmed","Other (describe in remarks)",272,52,0,"salami","pepper, ground"
+2009,2,"Multistate","Salmonella enterica","Oranienburg","Confirmed","Other (describe in remarks)",25,NA,NA,"alfalfa sprouts",NA
+2009,3,"Multistate","Escherichia coli","O157:H7","Confirmed","Other (describe in remarks)",23,6,0,"ground beef, other",NA
+2009,3,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Other (describe in remarks)",23,6,0,"ground beef, other",NA
+2009,5,"Multistate","Salmonella enterica","Newport","Confirmed","Other (describe in remarks)",68,4,0,"ground beef",NA
+2011,4,"Michigan","Norovirus Genogroup II","GII_6","Confirmed","Caterer (food prepared off-site from where served)",57,0,0,"salad, greek; caesar salad",NA
+2011,4,"Illinois","Salmonella enterica","Typhimurium","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",36,3,0,"multiple salads",NA
+2010,10,"California","Salmonella enterica","Heidelberg","Confirmed","Private home/residence",21,1,0,"chicken",NA
+2009,7,"Multistate","Salmonella enterica","Typhimurium","Confirmed","Grocery store",145,1,NA,"shredded lettuce","iceberg lettuce"
+2009,10,"Multistate","Escherichia coli","O157:H7","Confirmed","Restaurant - Sit-down dining",25,9,1,"needle tenderized steak","steak, sirloin"
+2009,10,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - Sit-down dining",25,9,1,"needle tenderized steak","steak, sirloin"
+2011,3,"New York","Escherichia coli","unknown","Confirmed","Restaurant - Sit-down dining; Caterer (food prepared off-site from where served)",53,0,0,"hummus",NA
+2011,1,"California","Salmonella enterica","Typhimurium","Confirmed","Private home/residence",37,7,0,"queso fresco, unpasteurized",NA
+2011,6,"Pennsylvania","Salmonella enterica","Montevideo","Confirmed",NA,312,1,0,"chicken, other","chicken"
+2011,7,"New York","Salmonella enterica","Typhimurium","Confirmed","Private home/residence",21,2,0,"turkey, roasted","turkey"
+2011,7,"Maryland","Salmonella enterica","Enteritidis","Confirmed","Restaurant - Sit-down dining",57,7,0,"crab dishes",NA
+2011,7,"Connecticut","Salmonella enterica","Enteritidis","Confirmed","Fair, festival, other temp or mobile services",42,2,0,"salad, unspecified",NA
+2011,6,"Pennsylvania","Salmonella enterica","Typhimurium var Cope","Suspected","Other (describe in remarks)",25,3,0,"pork, roasted","pork"
+2011,9,"South Carolina","Salmonella enterica","Typhimurium var Cope; ;","Confirmed; Confirmed; Confirmed","Religious facility",68,1,0,"pork, bbq","pork"
+2011,9,"Michigan","Salmonella enterica","Derby","Confirmed","Caterer (food prepared off-site from where served)",35,6,0,"pulled pork","pork"
+2011,12,"Michigan","Norovirus Genogroup II","GII_4 New Orleans (2009)","Confirmed","Caterer (food prepared off-site from where served); Grocery store",25,0,0,"focaccia; cheese",NA
+2010,4,"Multistate","Escherichia coli","O145","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter); Fair, festival, other temp or mobile services; School/college/university",31,14,0,"romaine lettuce, unspecified","romaine lettuce"
+2010,4,"Multistate","Shiga toxin-producing","O145","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter); Fair, festival, other temp or mobile services; School/college/university",31,14,0,"romaine lettuce, unspecified","romaine lettuce"
+2012,1,"Illinois","Norovirus Genogroup II","GII_4 New Orleans (2009)","Confirmed","Restaurant - Sit-down dining",196,2,0,"coleslaw; green beans; vegetables",NA
+2011,11,"Georgia","Salmonella enterica","Infantis","Confirmed","Restaurant - Sit-down dining; Caterer (food prepared off-site from where served)",54,3,0,"turkey, smoked; turkey, bbq; turkey, other",NA
+2010,4,"Multistate","Salmonella enterica","Chester","Confirmed","Private home/residence",44,7,0,"cheesy chicken and rice frozen meal",NA
+2010,3,"Multistate","Salmonella enterica","Newport","Confirmed",NA,44,NA,NA,"alfalfa sprouts","alfalfa sprout seeds"
+2010,4,"Multistate","Salmonella enterica","Berta","Confirmed","Private home/residence",35,2,0,"ground turkey, unspecified","turkey"
+2010,7,"Multistate","Salmonella enterica","Javiana","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter); Grocery store",30,8,NA,"tomatoes","tomato"
+2010,10,"Multistate","Escherichia coli","O157:H7","Confirmed","Grocery store",38,15,0,"gouda cheese (unpasteurized milk)","milk, unpasteurized"
+2010,10,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Grocery store",38,15,0,"gouda cheese (unpasteurized milk)","milk, unpasteurized"
+2010,11,"Multistate","Salmonella enterica","I 4,[5],12:i:-","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",140,31,0,"alfalfa sprouts",NA
+2010,12,"Multistate","Salmonella enterica","Hadar","Confirmed","Grocery store",55,NA,NA,"ground turkey, burger","ground turkey"
+2011,12,"Michigan","Escherichia coli","O157:H7","Confirmed","Restaurant - Sit-down dining",22,4,0,"pizza, tostada; sandwich, submarine","lettuce; lettuce"
+2011,12,"Michigan","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - Sit-down dining",22,4,0,"pizza, tostada; sandwich, submarine","lettuce; lettuce"
+2012,2,"Ohio","Norovirus Genogroup II","GII_4 New Orleans (2009)","Confirmed","Caterer (food prepared off-site from where served)",42,0,0,"spanish piquillo peppers with goat cheese",NA
+2010,2,"Multistate","Salmonella enterica","Enteritidis","Confirmed","Restaurant - Sit-down dining; Restaurant - other or unknown type; Private home/residence; Banquet Facility (food prepared and served on-site); Caterer (food prepared off-site from where served)",1939,NA,NA,"shell egg, other","egg"
+2012,2,"New York","Norovirus Genogroup II","GII_4 New Orleans (2009)","Confirmed","Restaurant - Sit-down dining",103,2,0,"antipasto; salad, unspecified; ice; water; pizza, unspecified",NA
+2009,11,"Multistate","Salmonella enterica","Heidelberg","Confirmed","Private home/residence",35,NA,NA,"chicken",NA
+2012,2,"Ohio","Norovirus Genogroup II","GII_4 New Orleans (2009)","Confirmed","Restaurant - other or unknown type",29,1,0,"ice","water"
+2012,1,"South Carolina","Salmonella enterica","Muenchen","Confirmed","Private home/residence",23,4,0,"macaroni and cheese",NA
+2012,4,"Ohio","Norovirus Genogroup I","GI_7","Confirmed","Caterer (food prepared off-site from where served)",29,0,0,"mesclun mix and spinach","lettuce; mesclun mix; spinach"
+2011,7,"California","Salmonella enterica","Kiambu","Confirmed","Restaurant - other or unknown type; Private home/residence; Grocery store; Other (describe in remarks)",22,1,0,"beans, unspecified; carnitas, unspecified",NA
+2010,1,"Multistate","Salmonella enterica","Paratyphi B","Confirmed",NA,51,NA,NA,"fish, ahi",NA
+2012,2,"North Carolina","Salmonella enterica","Paratyphi B","Confirmed","Other (describe in remarks)",89,8,0,"tempeh, unpasteurized",NA
+2011,2,"Maryland","Norovirus Genogroup II","GII_7;","Confirmed; Confirmed; Confirmed","Caterer (food prepared off-site from where served)",72,0,0,"cocktail sauce, unspecified",NA
+2011,2,"Maryland","Norovirus Genogroup II","GII_7;","Confirmed; Confirmed; Confirmed","Caterer (food prepared off-site from where served)",72,0,0,"cocktail sauce, unspecified",NA
+2011,2,"Maryland","Norovirus Genogroup II","GII_7;","Confirmed; Confirmed; Confirmed","Caterer (food prepared off-site from where served)",72,0,0,"cocktail sauce, unspecified",NA
+2011,1,"Maryland","Norovirus Genogroup II","GII_4 untypeable","Confirmed","Caterer (food prepared off-site from where served)",93,0,0,"salad, unspecified; lettuce","leaf lettuce"
+2011,1,"Multistate","Salmonella enterica","Agona","Confirmed","Private home/residence",106,10,0,"papaya",NA
+2012,6,"Pennsylvania","Salmonella enterica","Newport","Confirmed","Restaurant - Sit-down dining; Caterer (food prepared off-site from where served)",102,36,0,"tomato, unspecified",NA
+2012,7,"Tennessee","Salmonella enterica","Newport","Confirmed","Fair, festival, other temp or mobile services",27,1,0,"pork, bbq",NA
+2012,3,"Massachusetts","Salmonella enterica","Enteritidis","Confirmed","Restaurant - Sit-down dining",23,4,0,"sandwich, chicken salad; grilled chicken salad",NA
+2012,8,"Minnesota","Salmonella enterica","Enteritidis","Confirmed","Private home/residence",24,2,0,"beef, raw","ground beef"
+2012,7,"Oregon","Norovirus Genogroup II","GII_4 New Orleans (2009)","Confirmed","Banquet Facility (food prepared and served on-site)",27,1,0,"coleslaw; pulled pork sandwiches",NA
+2012,8,"New York","Norovirus Genogroup II","other","Confirmed","Private home/residence",22,0,0,"potato-macaroni salad",NA
+2011,4,"Multistate","Salmonella enterica","Heidelberg","Confirmed","Private home/residence; Grocery store; Long-term care/nursing home/assisted living facility; School/college/university",190,30,0,"liver, chicken","liver, chicken"
+2011,10,"Multistate","Escherichia coli","O157:H7","Confirmed","Grocery store; School/college/university",60,35,0,"romaine lettuce, unspecified",NA
+2011,10,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Grocery store; School/college/university",60,35,0,"romaine lettuce, unspecified",NA
+2012,9,"Ohio","Norovirus Genogroup II","GII_1","Confirmed","Banquet Facility (food prepared and served on-site)",37,2,0,"iceberg lettuce, unspecified","lettuce"
+2012,9,"Oregon","Norovirus Genogroup II","GII_4 New Orleans (2009)","Confirmed","Long-term care/nursing home/assisted living facility",25,0,0,"lettuce",NA
+2010,4,"North Carolina","Salmonella enterica","Enteritidis","Confirmed",NA,65,8,0,"meringue",NA
+2011,10,"Multistate","Escherichia coli","O157:H7","Confirmed","Private home/residence",26,5,0,"lettuce",NA
+2011,10,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Private home/residence",26,5,0,"lettuce",NA
+2011,6,"Multistate","Salmonella enterica","Uganda","Confirmed",NA,25,4,0,"cantaloupe",NA
+2011,4,"Multistate","Salmonella enterica","Enteritidis","Confirmed",NA,27,3,0,"alfalfa sprouts",NA
+2011,8,"Multistate","Salmonella enterica","Enteritidis","Confirmed",NA,53,2,0,"turkish pine nuts",NA
+2011,2,"Multistate","Salmonella enterica","Heidelberg","Confirmed",NA,181,50,1,"ground turkey, unspecified",NA
+2012,10,"Illinois","Norovirus Genogroup II","GII_4 Sydney (2012); GII_4 Sydney (2012)","Confirmed; Confirmed","Restaurant - Sit-down dining",23,1,0,"salad, unspecified",NA
+2012,10,"Illinois","Norovirus Genogroup II","GII_4 Sydney (2012); GII_4 Sydney (2012)","Confirmed; Confirmed","Restaurant - Sit-down dining",23,1,0,"salad, unspecified",NA
+2012,9,"Alabama","Salmonella enterica","Braenderup","Confirmed","Private home/residence",35,7,0,"chicken, smoked; rice",NA
+2012,10,"South Carolina","Salmonella enterica","Enteritidis","Confirmed","Religious facility",33,1,0,"chicken","chicken"
+2012,8,"Michigan","Escherichia coli","O157:H7","Confirmed",NA,90,10,0,"chicken salad","n/a"
+2012,8,"Michigan","Shiga toxin-producing","O157:H7","Confirmed",NA,90,10,0,"chicken salad","n/a"
+2012,10,"Tennessee","Salmonella enterica","Newport","Confirmed","Private home/residence",27,7,0,"bean dishes",NA
+2012,11,"Connecticut","Norovirus Genogroup II","other","Confirmed","School/college/university",66,0,0,"multiple foods",NA
+2012,11,"Florida","Norovirus Genogroup I","GI_9","Confirmed","Restaurant - Sit-down dining",21,0,0,"iceberg lettuce, unspecified","lettuce"
+2012,12,"Oregon","Norovirus Genogroup II","GII_4 New Orleans (2009)","Confirmed","Banquet Facility (food prepared and served on-site)",125,0,NA,"fruit salad",NA
+2012,12,"Ohio","Norovirus Genogroup II","GII_4 Sydney (2012)","Confirmed","Banquet Facility (food prepared and served on-site)",49,0,0,"fruit",NA
+2011,4,"Multistate","Salmonella enterica","Newport","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",166,0,0,"tomatoes",NA
+2012,12,"Georgia","Norovirus Genogroup II","unknown","Suspected","Caterer (food prepared off-site from where served)",31,0,0,"chicken and noodles; salad, unspecified",NA
+2013,1,"Oregon","Norovirus Genogroup II","GII_4 Sydney (2012)","Confirmed","Banquet Facility (food prepared and served on-site)",22,0,0,"fruit salad",NA
+2012,10,"Florida","Salmonella enterica","Javiana","Confirmed","Private home/residence",43,40,0,"chicken, baked",NA
+2013,2,"Ohio","Norovirus Genogroup II","GII_4 Sydney (2012)","Suspected","Restaurant - ""Fast-food""(drive up service or pay at counter)",23,0,0,"sandwich, submarine",NA
+2013,2,"Ohio","Norovirus Genogroup II","GII_4 Sydney (2012)","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",25,0,0,"chicken, fried",NA
+2013,3,"Oregon","Norovirus Genogroup II","GII_4 Sydney (2012)","Confirmed","Restaurant - Sit-down dining",38,2,0,"ceviche",NA
+2012,8,"California","Salmonella enterica","Thompson","Confirmed","Restaurant - Sit-down dining; Caterer (food prepared off-site from where served); Religious facility",29,4,0,"sandwich, corned beef",NA
+2011,12,"Multistate","Escherichia coli","O26","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",29,7,0,"clover sprouts",NA
+2011,12,"Multistate","Shiga toxin-producing","O26","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",29,7,0,"clover sprouts",NA
+2012,1,"Multistate","Salmonella enterica","Bareilly; Nchanga","Confirmed; Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter); Restaurant - Sit-down dining; School/college/university",425,55,0,"tuna sushi","tuna"
+2012,1,"Multistate","Salmonella enterica","Bareilly; Nchanga","Confirmed; Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter); Restaurant - Sit-down dining; School/college/university",425,55,0,"tuna sushi","tuna"
+2012,7,"Multistate","Salmonella enterica","Typhimurium; Newport","Confirmed; Confirmed","Private home/residence",261,94,3,"cantaloupe",NA
+2012,7,"Multistate","Salmonella enterica","Typhimurium; Newport","Confirmed; Confirmed","Private home/residence",261,94,3,"cantaloupe",NA
+2011,9,"Multistate","Salmonella enterica","Bovismorbificans","Confirmed","Restaurant - Sit-down dining",23,0,0,"hummus","tahini"
+2012,2,"Multistate","Salmonella enterica","Javiana","Confirmed",NA,49,14,0,"cucumber",NA
+2012,1,"Multistate","Escherichia coli","O45","Confirmed","Private home/residence",21,NA,0,"sandwich, unspecified",NA
+2012,1,"Multistate","Shiga toxin-producing","O45","Confirmed","Private home/residence",21,NA,0,"sandwich, unspecified",NA
+2012,8,"Arkansas","Salmonella enterica","Anatum; Adelaide; Braenderup; Cerro; Heidelberg; Mbandaka; Newport","Confirmed; Suspected; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Prison/jail",365,6,0,"chicken salad",NA
+2012,8,"Arkansas","Salmonella enterica","Anatum; Adelaide; Braenderup; Cerro; Heidelberg; Mbandaka; Newport","Confirmed; Suspected; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Prison/jail",365,6,0,"chicken salad",NA
+2012,8,"Arkansas","Salmonella enterica","Anatum; Adelaide; Braenderup; Cerro; Heidelberg; Mbandaka; Newport","Confirmed; Suspected; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Prison/jail",365,6,0,"chicken salad",NA
+2012,8,"Arkansas","Salmonella enterica","Anatum; Adelaide; Braenderup; Cerro; Heidelberg; Mbandaka; Newport","Confirmed; Suspected; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Prison/jail",365,6,0,"chicken salad",NA
+2012,8,"Arkansas","Salmonella enterica","Anatum; Adelaide; Braenderup; Cerro; Heidelberg; Mbandaka; Newport","Confirmed; Suspected; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Prison/jail",365,6,0,"chicken salad",NA
+2012,8,"Arkansas","Salmonella enterica","Anatum; Adelaide; Braenderup; Cerro; Heidelberg; Mbandaka; Newport","Confirmed; Suspected; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Prison/jail",365,6,0,"chicken salad",NA
+2012,8,"Arkansas","Salmonella enterica","Anatum; Adelaide; Braenderup; Cerro; Heidelberg; Mbandaka; Newport","Confirmed; Suspected; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Prison/jail",365,6,0,"chicken salad",NA
+2012,6,"Multistate","Salmonella enterica","Enteritidis","Confirmed",NA,51,NA,0,"ground beef",NA
+2012,10,"Multistate","Escherichia coli","O157:H7","Confirmed","Private home/residence",33,13,0,"prepackaged leafy greens","leafy green"
+2012,10,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Private home/residence",33,13,0,"prepackaged leafy greens","leafy green"
+2012,12,"Multistate","Salmonella enterica","Typhimurium","Confirmed","Restaurant - Sit-down dining",22,7,0,"ground beef",NA
+2012,7,"Multistate","Salmonella enterica","Newport","Confirmed","Private home/residence",24,5,0,"cantaloupe",NA
+2012,5,"Wisconsin","Salmonella enterica","Dublin;","Confirmed; Suspected","Private home/residence",21,5,0,"beef, laab raw; beef, intestine soup with vegetables; beef, laab cooked","beef, raw; beef; beef"
+2012,7,"Multistate","Salmonella enterica","Newport","Confirmed","Private home/residence",33,11,1,"cantaloupe",NA
+2013,4,"Illinois","Norovirus Genogroup II","GII_4 Sydney (2012); GII_4 Sydney (2012)","Confirmed; Confirmed","Banquet Facility (food prepared and served on-site)",57,1,0,"french dressing; butter; iced tea",NA
+2013,4,"Illinois","Norovirus Genogroup II","GII_4 Sydney (2012); GII_4 Sydney (2012)","Confirmed; Confirmed","Banquet Facility (food prepared and served on-site)",57,1,0,"french dressing; butter; iced tea",NA
+2012,7,"Multistate","Salmonella enterica","Braenderup; Worthington","Confirmed; Confirmed","Private home/residence",129,33,0,"mango, unspecified",NA
+2012,7,"Multistate","Salmonella enterica","Braenderup; Worthington","Confirmed; Confirmed","Private home/residence",129,33,0,"mango, unspecified",NA
+2012,6,"Multistate","Salmonella enterica","Bredeney","Confirmed","Private home/residence",42,10,0,"peanut butter",NA
+2013,4,"Pennsylvania","Salmonella enterica","Enteritidis","Confirmed","Caterer (food prepared off-site from where served)",35,1,0,"ham","ham"
+2013,3,"Minnesota","Salmonella enterica","Typhimurium","Confirmed","Private home/residence",26,15,0,"queso fresco, unpasteurized","milk, whole milk unpasteurized"
+2012,6,"Multistate","Salmonella enterica","Heidelberg","Confirmed","Private home/residence",134,33,0,"chicken",NA
+2012,6,"Multistate","Escherichia coli","O157:H7","Confirmed",NA,52,NA,NA,"romaine lettuce, unspecified",NA
+2012,6,"Multistate","Shiga toxin-producing","O157:H7","Confirmed",NA,52,NA,NA,"romaine lettuce, unspecified",NA
+2013,5,"Louisiana","Norovirus Genogroup II","GII_2","Confirmed","Caterer (food prepared off-site from where served)",40,0,0,"cake",NA
+2013,3,"Maryland","Norovirus Genogroup II","GII_4 Sydney (2012)","Confirmed","Banquet Facility (food prepared and served on-site)",48,1,0,"caesar salad",NA
+2013,5,"Massachusetts","Salmonella enterica","Enteritidis","Confirmed","Religious facility",59,0,0,"pasta salad",NA
+2013,1,"Multistate","Salmonella enterica","Saintpaul","Confirmed","Private home/residence",84,17,0,"cucumber",NA
+2010,5,"Multistate","Salmonella enterica","Newport","Confirmed","Restaurant - Sit-down dining; Grocery store",64,NA,NA,"tomatoes",NA
+2010,7,"Multistate","Salmonella enterica","Newport","Confirmed",NA,24,NA,NA,"tomatoes",NA
+2013,6,"Massachusetts","Salmonella enterica","Javiana","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter); Restaurant - Sit-down dining; Fair, festival, other temp or mobile services",30,0,0,"falafel","chick peas; egg; eggplant"
+2013,4,"Nevada","Salmonella enterica","I 4,[5],12:i:-","Confirmed","Restaurant - Sit-down dining",333,50,0,"sausage, pork",NA
+2013,8,"Minnesota","Salmonella enterica","Typhimurium; Uganda; I 4,[5],12:i:-; Typhimurium; Uganda; Chailey; I 4,[5],12:i:-; Infantis; Typhimurium; Typhimurium; Uganda; Typhimurium; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected","Fair, festival, other temp or mobile services",119,11,0,"pork; tripe; potato, unspecified; rice, unspecified; corn; guinea pig","pork; pork; potato; rice; corn; guinea pig"
+2013,8,"Minnesota","Salmonella enterica","Typhimurium; Uganda; I 4,[5],12:i:-; Typhimurium; Uganda; Chailey; I 4,[5],12:i:-; Infantis; Typhimurium; Typhimurium; Uganda; Typhimurium; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected","Fair, festival, other temp or mobile services",119,11,0,"pork; tripe; potato, unspecified; rice, unspecified; corn; guinea pig","pork; pork; potato; rice; corn; guinea pig"
+2013,8,"Minnesota","Salmonella enterica","Typhimurium; Uganda; I 4,[5],12:i:-; Typhimurium; Uganda; Chailey; I 4,[5],12:i:-; Infantis; Typhimurium; Typhimurium; Uganda; Typhimurium; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected","Fair, festival, other temp or mobile services",119,11,0,"pork; tripe; potato, unspecified; rice, unspecified; corn; guinea pig","pork; pork; potato; rice; corn; guinea pig"
+2013,8,"Minnesota","Salmonella enterica","Typhimurium; Uganda; I 4,[5],12:i:-; Typhimurium; Uganda; Chailey; I 4,[5],12:i:-; Infantis; Typhimurium; Typhimurium; Uganda; Typhimurium; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected","Fair, festival, other temp or mobile services",119,11,0,"pork; tripe; potato, unspecified; rice, unspecified; corn; guinea pig","pork; pork; potato; rice; corn; guinea pig"
+2013,8,"Minnesota","Salmonella enterica","Typhimurium; Uganda; I 4,[5],12:i:-; Typhimurium; Uganda; Chailey; I 4,[5],12:i:-; Infantis; Typhimurium; Typhimurium; Uganda; Typhimurium; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected","Fair, festival, other temp or mobile services",119,11,0,"pork; tripe; potato, unspecified; rice, unspecified; corn; guinea pig","pork; pork; potato; rice; corn; guinea pig"
+2013,8,"Minnesota","Salmonella enterica","Typhimurium; Uganda; I 4,[5],12:i:-; Typhimurium; Uganda; Chailey; I 4,[5],12:i:-; Infantis; Typhimurium; Typhimurium; Uganda; Typhimurium; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected","Fair, festival, other temp or mobile services",119,11,0,"pork; tripe; potato, unspecified; rice, unspecified; corn; guinea pig","pork; pork; potato; rice; corn; guinea pig"
+2013,8,"Minnesota","Salmonella enterica","Typhimurium; Uganda; I 4,[5],12:i:-; Typhimurium; Uganda; Chailey; I 4,[5],12:i:-; Infantis; Typhimurium; Typhimurium; Uganda; Typhimurium; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected","Fair, festival, other temp or mobile services",119,11,0,"pork; tripe; potato, unspecified; rice, unspecified; corn; guinea pig","pork; pork; potato; rice; corn; guinea pig"
+2013,8,"Minnesota","Salmonella enterica","Typhimurium; Uganda; I 4,[5],12:i:-; Typhimurium; Uganda; Chailey; I 4,[5],12:i:-; Infantis; Typhimurium; Typhimurium; Uganda; Typhimurium; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected","Fair, festival, other temp or mobile services",119,11,0,"pork; tripe; potato, unspecified; rice, unspecified; corn; guinea pig","pork; pork; potato; rice; corn; guinea pig"
+2013,8,"Minnesota","Salmonella enterica","Typhimurium; Uganda; I 4,[5],12:i:-; Typhimurium; Uganda; Chailey; I 4,[5],12:i:-; Infantis; Typhimurium; Typhimurium; Uganda; Typhimurium; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected","Fair, festival, other temp or mobile services",119,11,0,"pork; tripe; potato, unspecified; rice, unspecified; corn; guinea pig","pork; pork; potato; rice; corn; guinea pig"
+2013,8,"Minnesota","Salmonella enterica","Typhimurium; Uganda; I 4,[5],12:i:-; Typhimurium; Uganda; Chailey; I 4,[5],12:i:-; Infantis; Typhimurium; Typhimurium; Uganda; Typhimurium; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected","Fair, festival, other temp or mobile services",119,11,0,"pork; tripe; potato, unspecified; rice, unspecified; corn; guinea pig","pork; pork; potato; rice; corn; guinea pig"
+2013,8,"Minnesota","Salmonella enterica","Typhimurium; Uganda; I 4,[5],12:i:-; Typhimurium; Uganda; Chailey; I 4,[5],12:i:-; Infantis; Typhimurium; Typhimurium; Uganda; Typhimurium; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected","Fair, festival, other temp or mobile services",119,11,0,"pork; tripe; potato, unspecified; rice, unspecified; corn; guinea pig","pork; pork; potato; rice; corn; guinea pig"
+2013,8,"Minnesota","Salmonella enterica","Typhimurium; Uganda; I 4,[5],12:i:-; Typhimurium; Uganda; Chailey; I 4,[5],12:i:-; Infantis; Typhimurium; Typhimurium; Uganda; Typhimurium; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected","Fair, festival, other temp or mobile services",119,11,0,"pork; tripe; potato, unspecified; rice, unspecified; corn; guinea pig","pork; pork; potato; rice; corn; guinea pig"
+2013,8,"Minnesota","Salmonella enterica","Typhimurium; Uganda; I 4,[5],12:i:-; Typhimurium; Uganda; Chailey; I 4,[5],12:i:-; Infantis; Typhimurium; Typhimurium; Uganda; Typhimurium; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected; Suspected","Fair, festival, other temp or mobile services",119,11,0,"pork; tripe; potato, unspecified; rice, unspecified; corn; guinea pig","pork; pork; potato; rice; corn; guinea pig"
+2012,12,"Multistate","Escherichia coli","O121","Confirmed","Private home/residence",35,9,0,"frozen meal",NA
+2012,12,"Multistate","Shiga toxin-producing","O121","Confirmed","Private home/residence",35,9,0,"frozen meal",NA
+2013,6,"Massachusetts","Norovirus Genogroup I","GI_4","Confirmed","Restaurant - Sit-down dining",32,0,0,"oysters, raw",NA
+2010,7,"Multistate","Salmonella enterica","Newport","Confirmed","Restaurant - Sit-down dining",41,5,0,"guacamole",NA
+2013,8,"Tennessee","Salmonella enterica","Enteritidis;","Confirmed; Confirmed","School/college/university",24,1,0,"ground chicken","chicken"
+2013,9,"Ohio","Salmonella enterica","I 4,[5],12:i:-","Confirmed","Restaurant - Sit-down dining",32,8,0,"prime rib and aus jus",NA
+2013,9,"Illinois","Salmonella enterica","Enteritidis","Confirmed","Restaurant - Sit-down dining",23,7,0,"refried beans, unspecified",NA
+2013,5,"California","Salmonella enterica","Enteritidis","Confirmed","School/college/university",27,2,0,"tomatoes, raw","tomato"
+2013,7,"Alabama","Salmonella enterica","Heidelberg","Confirmed","Religious facility",38,30,0,"green beans, unspecified; macaroni and cheese",NA
+2013,10,"Alabama","Salmonella enterica","Senftenberg","Confirmed","Religious facility",50,3,0,"white beans with ham",NA
+2013,10,"Connecticut","Norovirus Genogroup I","other","Confirmed","Banquet Facility (food prepared and served on-site)",34,0,0,"hors d'oeuvres; water; ice, unspecified",NA
+2011,6,"Multistate","Salmonella enterica","Enteritidis","Confirmed","Private home/residence",67,6,0,"pork, roasted",NA
+2013,7,"Arizona","Escherichia coli","O157:H7","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",94,22,0,"lettuce","lettuce"
+2013,7,"Arizona","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",94,22,0,"lettuce","lettuce"
+2013,10,"Pennsylvania","Escherichia coli","O157:H7","Confirmed","Restaurant - Sit-down dining",24,8,0,"ground beef, hamburger",NA
+2013,10,"Pennsylvania","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - Sit-down dining",24,8,0,"ground beef, hamburger",NA
+2013,11,"Tennessee","Salmonella enterica","Heidelberg","Confirmed","Prison/jail",24,3,0,"chicken","chicken"
+2013,3,"Multistate","Salmonella enterica","Saintpaul","Confirmed",NA,131,23,0,"cherry tomato; grape tomato",NA
+2013,12,"New York","Salmonella enterica","Newport","Confirmed","Restaurant - Sit-down dining",43,1,0,"fish hot pot; beef lung in chili sauce; pork kidney and chicken dish",NA
+2013,4,"Multistate","Salmonella enterica","Newport","Confirmed","Private home/residence",39,9,0,"ground beef",NA
+2013,12,"Connecticut","Norovirus Genogroup II","GII_7","Confirmed","Caterer (food prepared off-site from where served)",22,0,0,"sushi, unspecified",NA
+2013,11,"Michigan","Salmonella enterica","Enteritidis","Confirmed","Restaurant - Sit-down dining",62,2,0,"thai chicken lettuce wrap; salad, unspecified; chicken, grilled","egg; egg; egg"
+2014,1,"Virginia","Norovirus Genogroup I","GI_3B","Confirmed","Grocery store",34,0,0,"submarine sandwich",NA
+2013,10,"Multistate","Escherichia coli","O157:H7","Confirmed","Caterer (food prepared off-site from where served)",33,9,0,"romaine lettuce, unspecified",NA
+2013,10,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Caterer (food prepared off-site from where served)",33,9,0,"romaine lettuce, unspecified",NA
+2013,8,"California","Escherichia coli","O157:H7","Confirmed","Restaurant - Sit-down dining",22,7,0,"noodles",NA
+2013,8,"California","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - Sit-down dining",22,7,0,"noodles",NA
+2014,1,"Florida","Norovirus Genogroup II","GII_4 Sydney (2012)","Confirmed","Private home/residence",37,2,0,"sandwich, speciality",NA
+2014,1,"Minnesota","Salmonella enterica","Enteritidis","Confirmed","Restaurant - Sit-down dining",36,2,0,"rolls",NA
+2014,2,"Virginia","Norovirus Genogroup II","other","Confirmed","Restaurant - Sit-down dining",44,0,0,"salad, unspecified","carrots; cucumber; peppers, green; tomato"
+2013,3,"Multistate","Salmonella enterica","Heidelberg","Confirmed",NA,634,200,0,"chicken",NA
+2013,5,"California","Salmonella enterica","Newport","Confirmed","Private home/residence",137,6,0,"beef(fresly killed cow), raw and/or undercooked; beef(fresly killed cow), raw and/or undercooked; beef(fresly killed cow), raw and/or undercooked","beef; beef; beef"
+2013,6,"Wisconsin","Salmonella enterica","Braenderup","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",75,5,0,"vegetables",NA
+2013,5,"Wisconsin","Salmonella enterica","Uganda","Confirmed","Religious facility",25,2,0,"beef, laab raw; boiled beef","beef"
+2014,3,"Michigan","Norovirus Genogroup II","GII_4 Sydney (2012)","Confirmed","Restaurant - Sit-down dining",135,6,0,"guacamole; sour cream",NA
+2014,3,"Michigan","Norovirus Genogroup I","GI_3","Confirmed","Restaurant - Sit-down dining",294,0,0,"sauces, unspecified",NA
+2014,2,"Texas","Salmonella enterica","Enteritidis","Confirmed","Caterer (food prepared off-site from where served)",21,1,0,"chicken dishes",NA
+2013,4,"Multistate","Escherichia coli","O26","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",26,5,0,"lettuce",NA
+2013,4,"Multistate","Shiga toxin-producing","O26","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",26,5,0,"lettuce",NA
+2014,4,"Ohio","Norovirus Genogroup II","GII_14","Confirmed","Restaurant - Sit-down dining",28,1,0,"salad, unspecified",NA
+2013,3,"Nebraska","Salmonella enterica","Typhimurium","Confirmed","Restaurant - Sit-down dining",64,2,0,"quesadillas; chicken; cheese; tortilla, unspecified; cilantro, unspecified",NA
+2014,7,"Minnesota","Escherichia coli","O157:H7","Confirmed","Caterer (food prepared off-site from where served)",57,9,0,"potato salad; celery, unspecified","celery; celery"
+2014,7,"Minnesota","Shiga toxin-producing","O157:H7","Confirmed","Caterer (food prepared off-site from where served)",57,9,0,"potato salad; celery, unspecified","celery; celery"
+2014,4,"Wisconsin","Norovirus Genogroup I","GI_3B","Confirmed","Banquet Facility (food prepared and served on-site)",22,0,0,"fruit salad; cake",NA
+2014,8,"Virginia","Salmonella enterica","Thompson","Confirmed","Private home/residence; Caterer (food prepared off-site from where served)",37,3,0,"sandwich, chicken","chicken"
+2014,7,"New York","Salmonella enterica","Newport","Confirmed","Unknown",21,5,0,"cucumber",NA
+2014,4,"Maryland","Norovirus Genogroup II","unknown","Confirmed; Confirmed","Other (describe in remarks)",216,0,0,"chicken, marsala",NA
+2014,8,"Kansas","Salmonella enterica","Thompson","Confirmed","Religious facility",30,1,0,"tostada, unspecified",NA
+2014,5,"North Carolina","Salmonella enterica","Enteritidis","Confirmed","Restaurant - Sit-down dining",46,0,0,"remoulade",NA
+2012,3,"Multistate","Escherichia coli","O157:H7","Confirmed","School/college/university",24,NA,NA,"leaf lettuce",NA
+2012,3,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","School/college/university",24,NA,NA,"leaf lettuce",NA
+2014,9,"Wisconsin","Escherichia coli","unknown;","Confirmed; Confirmed; Suspected","Private home/residence",38,10,0,"milk, whole milk unpasteurized",NA
+2014,9,"Wisconsin","Shiga toxin-producing","unknown;","Confirmed; Confirmed; Suspected","Private home/residence",38,10,0,"milk, whole milk unpasteurized",NA
+2013,11,"Multistate","Salmonella enterica","Javiana","Confirmed",NA,33,6,0,"fish, tilapia",NA
+2014,9,"Connecticut","Norovirus Genogroup I","other","Confirmed","Caterer (food prepared off-site from where served)",39,0,0,"turkey wrap",NA
+2014,10,"Wisconsin","Salmonella enterica","I 4,[5],12:i:-; I 4,[5],12:i:-","Confirmed; Confirmed","Caterer (food prepared off-site from where served)",42,8,0,"beans, baked",NA
+2014,10,"Wisconsin","Salmonella enterica","I 4,[5],12:i:-; I 4,[5],12:i:-","Confirmed; Confirmed","Caterer (food prepared off-site from where served)",42,8,0,"beans, baked",NA
+2014,10,"Wisconsin","Norovirus Genogroup II","GII_6","Confirmed","Grocery store",31,0,0,"pasta salad",NA
+2014,5,"Multistate","Salmonella enterica","Newport","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter); Restaurant - Sit-down dining; Restaurant - other or unknown type; Private home/residence; Grocery store; Long-term care/nursing home/as...",275,48,1,"cucumber",NA
+2014,12,"Minnesota","Norovirus Genogroup I","GI_2","Confirmed","Restaurant - Sit-down dining",30,0,0,"appetizers; appetizers; artichoke dip",NA
+2014,12,"Florida","Norovirus Genogroup II","GII_4 Sydney (2012)","Confirmed","Caterer (food prepared off-site from where served)",31,0,0,"ice; green beans; chicken, marsala","ice; green beans; chicken; mushrooms"
+2014,12,"Florida","Norovirus Genogroup I","unknown","Confirmed","Restaurant - other or unknown type",22,0,0,"cheese and crackers",NA
+2014,12,"Georgia","Salmonella enterica","Thompson","Confirmed","Caterer (food prepared off-site from where served)",56,4,0,"chicken, smoked","chicken"
+2014,12,"Florida","Norovirus Genogroup II","unknown","Confirmed",NA,33,0,0,"buffet","buffet"
+2014,9,"Hawaii","Salmonella enterica","Oslo","Suspected","Restaurant - Sit-down dining",24,1,0,"vegetables",NA
+2014,9,"Multistate","Salmonella enterica","Enteritidis","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter); Restaurant - Sit-down dining; Restaurant - other or unknown type; Grocery store; Office/indoor workplace",115,19,0,"mung bean sprouts",NA
+2014,1,"Multistate","Salmonella enterica","Newport; Hartford; Oranienburg","Confirmed; Confirmed; Confirmed","Private home/residence",31,5,0,"chia seed powder",NA
+2014,1,"Multistate","Salmonella enterica","Newport; Hartford; Oranienburg","Confirmed; Confirmed; Confirmed","Private home/residence",31,5,0,"chia seed powder",NA
+2014,1,"Multistate","Salmonella enterica","Newport; Hartford; Oranienburg","Confirmed; Confirmed; Confirmed","Private home/residence",31,5,0,"chia seed powder",NA
+2015,2,"Virginia","Norovirus Genogroup II","GII_4 Sydney (2012)","Confirmed","Private home/residence",21,1,0,"peas, green",NA
+2015,2,"Ohio","Norovirus Genogroup II","GII_4 Sydney (2012)","Confirmed","Restaurant - Sit-down dining; Private home/residence",35,0,0,"cantaloupe; pineapple, unspecified; grapes",NA
+2015,2,"Montana","Salmonella enterica","Braenderup","Confirmed","Restaurant - Sit-down dining",39,1,0,"garden salad",NA
+2014,7,"Multistate","Salmonella enterica","Typhimurium","Confirmed","Private home/residence",47,11,0,"ground beef",NA
+2014,8,"Multistate","Salmonella enterica","Saintpaul","Confirmed",NA,27,10,0,"grapes, unspecified",NA
+2004,4,"Multistate","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type; Private home/residence",59,18,NA,"ground beef","ground beef"
+2004,4,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type; Private home/residence",59,18,NA,"ground beef","ground beef"
+2004,4,"Multistate","Salmonella enterica","Bovismorbificans","Confirmed","Other (describe in remarks)",35,5,NA,"alfalfa sprouts","sprouts"
+2004,7,"Multistate","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type",97,NA,NA,"iceberg lettuce, unspecified","leafy green"
+2004,6,"Multistate","Salmonella enterica","Braenderup","Confirmed","Restaurant - other or unknown type; Private home/residence",137,25,0,"roma tomato","vine-stalk eg. tomato"
+2004,7,"Multistate","Salmonella enterica","Javiana; Typhimurium; Thompson; Muenchen; unknown; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Restaurant - other or unknown type",429,129,0,"roma tomato","vine-stalk eg. tomato"
+2004,7,"Multistate","Salmonella enterica","Javiana; Typhimurium; Thompson; Muenchen; unknown; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Restaurant - other or unknown type",429,129,0,"roma tomato","vine-stalk eg. tomato"
+2004,7,"Multistate","Salmonella enterica","Javiana; Typhimurium; Thompson; Muenchen; unknown; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Restaurant - other or unknown type",429,129,0,"roma tomato","vine-stalk eg. tomato"
+2004,7,"Multistate","Salmonella enterica","Javiana; Typhimurium; Thompson; Muenchen; unknown; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Restaurant - other or unknown type",429,129,0,"roma tomato","vine-stalk eg. tomato"
+2004,7,"Multistate","Salmonella enterica","Javiana; Typhimurium; Thompson; Muenchen; unknown; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Restaurant - other or unknown type",429,129,0,"roma tomato","vine-stalk eg. tomato"
+2004,7,"Multistate","Salmonella enterica","Javiana; Typhimurium; Thompson; Muenchen; unknown; Anatum","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Restaurant - other or unknown type",429,129,0,"roma tomato","vine-stalk eg. tomato"
+2004,6,"Multistate","Salmonella enterica","Berta","Confirmed","Restaurant - other or unknown type",155,16,NA,"taco, beef; eggs, unspecified; onion, unspecified","beef"
+2004,8,"Multistate","Salmonella enterica","Typhimurium","Confirmed","Private home/residence",34,NA,NA,"ground beef, unspecified",NA
+2005,9,"North Carolina","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",83,2,0,"chicken, grilled",NA
+2005,7,"Colorado","Salmonella enterica","Newport","Confirmed","Unknown",24,7,1,"cantaloupe; ground beef, unspecified",NA
+2005,10,"Oregon","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type",64,1,0,"other food",NA
+2005,10,"Oregon","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type",64,1,0,"other food",NA
+1999,11,"Wisconsin","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",33,0,0,"lasagna, unspecified; ravioli, unspecified; eggs, other",NA
+1999,12,"Washington","Norovirus Genogroup II","unknown","Confirmed","Private home/residence; Grocery store; Other (describe in remarks)",62,2,0,"water; celery, unspecified; peppers, green",NA
+1999,9,"Washington","Norovirus Genogroup I","unknown","Confirmed","Other (describe in remarks)",115,NA,NA,"tomato, unspecified; leaf lettuce, unspecified",NA
+1999,5,"Virginia","Salmonella enterica","Muenchen","Confirmed","Restaurant - other or unknown type",22,NA,0,"chicken, other",NA
+1999,5,"Virginia","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",177,8,0,"french toast, unspecified; pork, bacon; ham, unspecified","egg"
+1999,6,"Utah","Salmonella enterica","Enteritidis","Confirmed","Caterer (food prepared off-site from where served)",256,0,0,"ice cream, unspecified","egg"
+1998,6,"Texas","Escherichia coli","O157:H7","Confirmed",NA,23,NA,NA,"hot dog, unspecified",NA
+1998,6,"Texas","Shiga toxin-producing","O157:H7","Confirmed",NA,23,NA,NA,"hot dog, unspecified",NA
+1998,5,"Tennessee","Salmonella enterica","Baildon","Confirmed","Restaurant - other or unknown type",264,12,0,"salad, unspecified",NA
+1999,11,"Tennessee","Norovirus Genogroup II","unknown","Confirmed","Caterer (food prepared off-site from where served)",42,0,0,"mixed fruit",NA
+1999,5,"Pennsylvania","Salmonella enterica","Heidelberg","Confirmed","Private home/residence",25,NA,NA,"caesar salad",NA
+1999,2,"Pennsylvania","Salmonella enterica","Hadar","Confirmed","Caterer (food prepared off-site from where served)",104,5,0,"chicken, baked","chicken"
+1998,11,"Oregon","Salmonella enterica","Typhimurium;","Confirmed; Suspected","Private home/residence",22,1,0,"turkey, unspecified",NA
+1999,7,"Oregon","Norovirus Genogroup I","unknown","Confirmed",NA,43,0,0,"shrimp dishes unspecified",NA
+1999,10,"Oklahoma","Escherichia coli","O157:H7","Confirmed","Other (describe in remarks)",25,6,0,"apple cider, unpasteurized",NA
+1999,10,"Oklahoma","Shiga toxin-producing","O157:H7","Confirmed","Other (describe in remarks)",25,6,0,"apple cider, unpasteurized",NA
+1999,12,"Ohio","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",73,NA,0,"ice cream, unspecified",NA
+1999,10,"Ohio","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type",47,23,0,"salad, unspecified","leafy green"
+1999,10,"Ohio","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type",47,23,0,"salad, unspecified","leafy green"
+1999,9,"Ohio","Salmonella enterica","Typhimurium","Confirmed","School/college/university; Other (describe in remarks)",82,NA,0,"chocolate milk, unspecified",NA
+1998,6,"New York","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type",134,10,0,"multiple foods",NA
+1999,6,"New York","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",23,NA,NA,"cake, tiramisu","egg"
+1999,11,"New York","Salmonella enterica","Stanley","Confirmed","Child day care",34,NA,NA,"turkey, roasted","turkey"
+1999,6,"New York","Salmonella enterica","Heidelberg","Confirmed","Other (describe in remarks)",41,NA,NA,"chicken, bbq","chicken"
+1999,6,"New Mexico","Salmonella enterica","Oranienburg","Confirmed","Restaurant - other or unknown type",73,16,0,"nachos and cheese; burrito, beef",NA
+1999,8,"New Jersey","Salmonella enterica","Group B","Confirmed","Camp",60,1,NA,"eggs, unspecified",NA
+1999,5,"Nebraska","Norovirus Genogroup II","other","Confirmed","Restaurant - other or unknown type",127,0,0,"dips, unspecified",NA
+1999,3,"Nebraska","Norovirus Genogroup II","unknown","Confirmed","Private home/residence; Caterer (food prepared off-site from where served)",46,0,0,"mints, unspecified",NA
+1999,2,"Nebraska","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type",65,8,0,"lettuce-based salads unspecified","leafy green"
+1999,2,"Nebraska","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type",65,8,0,"lettuce-based salads unspecified","leafy green"
+1998,7,"North Carolina","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type",143,NA,NA,"coleslaw",NA
+1998,7,"North Carolina","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type",143,NA,NA,"coleslaw",NA
+1999,5,"Missouri","Salmonella enterica","Enteritidis","Confirmed","Religious facility",39,2,0,"pie, merengue","cream filling"
+1999,6,"Multistate","Salmonella enterica","Muenchen","Confirmed","Other (describe in remarks)",398,NA,NA,"orange juice, unpasteurized",NA
+1999,11,"Multistate","Salmonella enterica","Newport","Confirmed","Other (describe in remarks)",79,NA,NA,"mango, unspecified","fruit, unspecified"
+1999,1,"Multistate","Salmonella enterica","Mbandaka","Confirmed","Other (describe in remarks)",83,9,0,"alfalfa sprouts",NA
+1998,5,"Multistate","Norovirus Genogroup II","unknown","Confirmed","Other (describe in remarks)",171,NA,NA,"oysters, unspecified",NA
+1998,4,"Multistate","Salmonella enterica","Agona","Confirmed","Other (describe in remarks)",209,47,NA,"cereal, oat","dry cereal"
+1998,5,"Multistate","Escherichia coli","O157:H7","Confirmed","Other (describe in remarks)",34,10,0,"ground beef, unspecified",NA
+1998,5,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Other (describe in remarks)",34,10,0,"ground beef, unspecified",NA
+1998,12,"Multistate","Salmonella enterica","Baildon","Confirmed","Long-term care/nursing home/assisted living facility; Other (describe in remarks)",86,16,3,"tomato, unspecified",NA
+1999,4,"Maryland","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type; Caterer (food prepared off-site from where served)",65,3,0,"chicken salad; ham, unspecified","chicken; pork"
+1999,9,"Maryland","Salmonella enterica","Typhimurium","Confirmed","School/college/university",49,6,0,"other cheese, unspecified",NA
+1999,3,"Maryland","Salmonella enterica","Hadar","Confirmed","Other (describe in remarks)",55,NA,NA,"chicken salad",NA
+1999,5,"Massachusetts","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",70,NA,0,"manicotti, unspecified","egg"
+1998,8,"Louisiana","Salmonella enterica","Infantis","Confirmed","Private home/residence",63,9,0,"rice dishes, unspecified",NA
+1999,10,"Idaho","Escherichia coli","O157:H7","Confirmed","Other (describe in remarks)",33,3,0,"sausage, mixed meats",NA
+1999,10,"Idaho","Shiga toxin-producing","O157:H7","Confirmed","Other (describe in remarks)",33,3,0,"sausage, mixed meats",NA
+1998,5,"Iowa","Norovirus Genogroup II","GII_2","Confirmed","Restaurant - other or unknown type",51,0,0,"deli meat, unspecified",NA
+1998,8,"Georgia","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type",33,NA,NA,"pork, bbq",NA
+1998,4,"Georgia","Norovirus Genogroup II","unknown","Confirmed","Other (describe in remarks)",51,NA,NA,"salad, unspecified",NA
+1999,9,"Georgia","Salmonella enterica","Hadar","Confirmed","Restaurant - other or unknown type; Private home/residence",60,24,0,"pork, bbq",NA
+1998,4,"Florida","Norovirus Genogroup II","unknown","Confirmed","Child day care",40,NA,NA,"hot dog, unspecified",NA
+1998,11,"Florida","Norovirus Genogroup II","unknown","Confirmed","Other (describe in remarks)",31,0,0,"ice",NA
+1999,1,"Colorado","Salmonella enterica","Typhimurium","Confirmed","Other (describe in remarks)",112,3,0,"clover sprouts",NA
+1999,12,"California","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",108,13,0,"chicken, unspecified; mung bean sprouts","chicken"
+1999,7,"California","Salmonella enterica","Enteritidis","Confirmed","School/college/university",29,NA,NA,"eggs, unspecified","egg"
+1999,1,"California","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",31,6,0,"chile relleno, unspecified; rice, yellow","egg; egg"
+1998,7,"Arizona","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type; Other (describe in remarks)",58,11,0,"chile rellenos","egg"
+2000,8,"West Virginia","Norovirus Genogroup I","unknown","Confirmed",NA,37,0,NA,"ice",NA
+2000,7,"West Virginia","Norovirus Genogroup I","unknown","Confirmed","Camp",25,0,NA,"water, unspecified",NA
+2000,10,"Wisconsin","Escherichia coli","O157:H7","Confirmed","School/college/university",29,4,0,"cake, brownie",NA
+2000,10,"Wisconsin","Shiga toxin-producing","O157:H7","Confirmed","School/college/university",29,4,0,"cake, brownie",NA
+2000,8,"Wisconsin","Salmonella enterica","Typhimurium","Confirmed","Caterer (food prepared off-site from where served)",26,6,0,"coleslaw",NA
+2000,7,"Wisconsin","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type",736,23,1,"watermelon",NA
+2000,7,"Wisconsin","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type",736,23,1,"watermelon",NA
+2000,7,"Wisconsin","Escherichia coli","O157:H7;","Confirmed; Suspected","Restaurant - other or unknown type",52,0,0,"chicken, buffalo wings; lettuce, unspecified",NA
+2000,7,"Wisconsin","Shiga toxin-producing","O157:H7;","Confirmed; Suspected","Restaurant - other or unknown type",52,0,0,"chicken, buffalo wings; lettuce, unspecified",NA
+2000,7,"Wisconsin","Norovirus Genogroup I","O157:H7;","Confirmed; Suspected","Restaurant - other or unknown type",52,0,0,"chicken, buffalo wings; lettuce, unspecified",NA
+2000,11,"Virginia","Salmonella enterica","Enteritidis","Confirmed","Private home/residence",29,3,0,"deviled eggs; green beans, unspecified",NA
+2000,7,"Virginia","Salmonella enterica","Enteritidis","Confirmed","Long-term care/nursing home/assisted living facility",27,NA,NA,"eggs, unspecified","egg"
+2000,4,"Virginia","Salmonella enterica","Enteritidis","Confirmed","Private home/residence; Other (describe in remarks)",106,14,0,"macaroni and cheese","egg"
+2000,7,"Utah","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",28,2,0,"fried rice, unspecified",NA
+2000,11,"Tennessee","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type",26,19,0,"gravy, chicken; stuffing, unspecified","egg; chicken"
+2000,6,"South Carolina","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",31,NA,NA,"macaroni and cheese; unspecified fish; multiple foods",NA
+2000,10,"Pennsylvania","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",25,10,0,"fish, stuffed flounder",NA
+2000,9,"Pennsylvania","Salmonella enterica","Muenster","Suspected","Restaurant - other or unknown type",27,5,0,"other cheese, unspecified; meat, unspecified",NA
+2000,7,"Pennsylvania","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type",32,1,0,"macaroni salad",NA
+2000,6,"Pennsylvania","Salmonella enterica","Heidelberg","Confirmed","Private home/residence",56,3,0,"macaroni salad; chicken and rice; ham, unspecified",NA
+2000,12,"Ohio","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",31,0,0,"tomato, unspecified","vine-stalk eg. tomato"
+2000,11,"Ohio","Norovirus Genogroup II","unknown","Confirmed","Office/indoor workplace",107,3,0,"fruit salad",NA
+2000,11,"Ohio","Norovirus Genogroup I","unknown","Confirmed","Restaurant - other or unknown type",43,0,0,"mixed fruit; lettuce-based salads unspecified",NA
+2000,8,"Ohio","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type",49,11,0,"sandwich, submarine",NA
+2000,8,"Ohio","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",132,NA,NA,"ice cream, commercial","egg"
+2000,8,"Ohio","Norovirus Genogroup I","unknown","Confirmed","Other (describe in remarks)",100,NA,0,"water; lettuce-based salads unspecified; ice",NA
+2000,8,"Ohio","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",41,11,0,"shell egg, other","egg"
+2000,7,"Ohio","Norovirus Genogroup I","unknown","Confirmed","Restaurant - other or unknown type",26,0,0,"sandwich, submarine",NA
+2000,6,"Ohio","Norovirus Genogroup I","unknown","Confirmed","Restaurant - other or unknown type",31,0,0,"salad, unspecified; multiple foods",NA
+2000,4,"Ohio","Norovirus Genogroup I","unknown","Confirmed","Restaurant - other or unknown type; Private home/residence",40,NA,0,"fruit-based salads unspecified",NA
+2000,4,"Ohio","Norovirus Genogroup I","unknown","Confirmed","Restaurant - other or unknown type",76,NA,0,"seven-layer salad",NA
+2000,4,"Ohio","Norovirus Genogroup I","unknown","Confirmed","Restaurant - other or unknown type",60,NA,0,"seven-layer salad",NA
+2000,2,"Ohio","Norovirus Genogroup II","unknown","Confirmed","School/college/university",87,NA,0,"speciality dessert unspecified",NA
+2000,9,"New York","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type; Caterer (food prepared off-site from where served)",68,NA,NA,"fish, gifilte",NA
+2000,3,"New York","Escherichia coli","O157:H7","Suspected","School/college/university",43,2,NA,"ground beef, cheeseburger","beef"
+2000,3,"New York","Shiga toxin-producing","O157:H7","Suspected","School/college/university",43,2,NA,"ground beef, cheeseburger","beef"
+2000,5,"New Mexico","Salmonella enterica","Typhimurium var Cope","Confirmed","Private home/residence",32,2,0,"stew/chili, other",NA
+2000,6,"New Jersey","Salmonella enterica","Enteritidis","Confirmed","Long-term care/nursing home/assisted living facility",41,8,0,"eggs, unspecified",NA
+2000,7,"Mississippi","Salmonella enterica","Infantis","Confirmed","Restaurant - other or unknown type",107,3,0,"roast beef, unspecified",NA
+2000,11,"Multistate","Escherichia coli","O157:H7","Confirmed","Private home/residence; Grocery store",50,30,0,"ground beef, unspecified","beef"
+2000,11,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Private home/residence; Grocery store",50,30,0,"ground beef, unspecified","beef"
+2000,11,"Multistate","Salmonella enterica","Thompson","Confirmed","Private home/residence",43,NA,NA,"tomato, unspecified","vine-stalk eg. tomato"
+2000,4,"Multistate","Salmonella enterica","Poona","Confirmed","Restaurant - other or unknown type; Private home/residence; Grocery store; Long-term care/nursing home/assisted living facility; Other (describe in remarks)",47,11,0,"cantaloupe",NA
+2000,3,"Multistate","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type; Grocery store; School/college/university",75,3,NA,"mung bean sprouts","sprouts"
+2000,3,"Multistate","Salmonella enterica","Enteritidis","Confirmed","Other (describe in remarks)",88,NA,NA,"orange juice, unpasteurized","fruit, unspecified"
+2000,2,"Multistate","Norovirus Genogroup II","unknown","Confirmed","Caterer (food prepared off-site from where served)",333,3,NA,"pasta salad; potato salad; vegetable-based salads unspecified",NA
+2000,5,"Michigan","Salmonella enterica","Braenderup","Suspected","Restaurant - other or unknown type",75,2,0,"salad, unspecified; salad dressing, unspecified","leafy green; sauces/ dressings"
+2000,1,"Massachusetts","Salmonella enterica","Cubana","Suspected","Caterer (food prepared off-site from where served)",40,NA,NA,"canapes, unspecified",NA
+2000,12,"Illinois","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",148,NA,NA,"lettuce-based salads unspecified",NA
+2000,2,"Illinois","Salmonella enterica","Enteritidis","Confirmed","Caterer (food prepared off-site from where served)",36,10,1,"salmon, unspecified; seafood dish, unspecified",NA
+2000,8,"Georgia","Salmonella enterica","Javiana","Confirmed","Caterer (food prepared off-site from where served)",44,8,0,"bread, cornbread; chicken, unspecified; ham, unspecified",NA
+2000,6,"Georgia","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",26,0,0,"shell eggs, scrambled hard","egg"
+2000,5,"Florida","Norovirus Genogroup I","unknown","Confirmed","Restaurant - other or unknown type",142,0,0,"soda, unspecified; pizza, unspecified",NA
+2000,6,"Colorado","Salmonella enterica","Montevideo","Confirmed","Restaurant - other or unknown type",27,NA,NA,"stew/chili, unspecified",NA
+2000,9,"California","Salmonella enterica","Newport","Confirmed","Private home/residence",30,2,0,"rice, unspecified; beef, bbq; beans, unspecified",NA
+2000,8,"California","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type; Private home/residence",23,5,0,"goat, unspecified; parsley, unspecified",NA
+2000,6,"Arkansas","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type",96,6,0,"pico de gallo","root (eg. potato)"
+2000,5,"Arkansas","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type",36,14,0,"chicken, unspecified","chicken"
+2000,5,"Arkansas","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type",36,14,0,"chicken, unspecified","chicken"
+2000,8,"Alabama","Salmonella enterica","Mbandaka","Confirmed","Restaurant - other or unknown type",50,5,0,"pork, bbq","pork"
+2000,7,"Alabama","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type; Private home/residence",29,NA,NA,"macaroni and cheese",NA
+2000,6,"Alabama","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type; Private home/residence",40,1,0,"chicken, bbq; pork, bbq; beans, baked; pie, chocolate",NA
+1998,12,"Pennsylvania","Salmonella enterica","Enteritidis","Confirmed","Private home/residence",21,7,0,"eggs, unspecified; potato stuffings",NA
+1998,11,"New Jersey","Salmonella enterica","Enteritidis","Confirmed",NA,24,10,0,"noodle casserole",NA
+1998,11,"Florida","Escherichia coli","O157:H7","Confirmed","Other (describe in remarks)",21,5,0,"pork, unspecified; rice, unspecified; beans, unspecified",NA
+1998,11,"Florida","Shiga toxin-producing","O157:H7","Confirmed","Other (describe in remarks)",21,5,0,"pork, unspecified; rice, unspecified; beans, unspecified",NA
+1998,11,"Washington","Salmonella enterica","Typhimurium","Confirmed","Other (describe in remarks)",50,1,0,"smoked fish",NA
+1998,10,"Massachusetts","Salmonella enterica","Typhimurium","Confirmed","Other (describe in remarks)",47,2,0,"raw milk",NA
+1998,9,"Maryland","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",258,4,0,"multiple cheeses, unspecified","cheese"
+1998,9,"Nevada","Salmonella enterica","Enteritidis","Confirmed","Caterer (food prepared off-site from where served)",71,4,NA,"pasta, unspecified",NA
+1998,9,"Maryland","Salmonella enterica","Enteritidis","Confirmed","Private home/residence; Caterer (food prepared off-site from where served)",50,NA,0,"cake, unspecified",NA
+1999,9,"Illinois","Escherichia coli","O157:H7","Confirmed","Private home/residence",321,17,0,"beef, unspecified",NA
+1999,9,"Illinois","Shiga toxin-producing","O157:H7","Confirmed","Private home/residence",321,17,0,"beef, unspecified",NA
+1998,9,"California","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",23,1,0,"crab, cooked",NA
+1998,8,"Virginia","Salmonella enterica","Enteritidis","Confirmed","Prison/jail",41,0,0,"chicken, unspecified",NA
+1999,8,"Ohio","Salmonella enterica","Enteritidis","Confirmed","Other (describe in remarks)",23,NA,0,"beans, baked",NA
+1998,8,"California","Salmonella enterica","Heidelberg","Confirmed","Other (describe in remarks)",200,4,0,"cake, unspecified",NA
+1998,7,"California","Salmonella enterica","Enteritidis","Confirmed","Other (describe in remarks)",32,3,0,"carnitas, unspecified",NA
+1999,7,"California","Salmonella enterica","Enteritidis","Confirmed","School/college/university",82,3,0,"honeydew melon; watermelon",NA
+1999,7,"California","Salmonella enterica","Enteritidis","Confirmed",NA,33,0,0,"eggs, unspecified",NA
+1998,6,"Ohio","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",49,2,0,"sandwich, chicken",NA
+1999,6,"California","Salmonella enterica","Thompson","Confirmed","Private home/residence",47,0,0,"beef, unspecified; tripe",NA
+1998,6,"Wisconsin","Escherichia coli","O157:H7","Confirmed","Other (describe in remarks)",47,10,0,"fruit salad",NA
+1998,6,"Wisconsin","Shiga toxin-producing","O157:H7","Confirmed","Other (describe in remarks)",47,10,0,"fruit salad",NA
+1998,6,"California","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",93,0,0,"pasta salad",NA
+1998,6,"Wisconsin","Escherichia coli","O157:H7","Confirmed","Other (describe in remarks)",63,24,0,"cheddar cheese, unspecified; cheddar cheese, unpasteurized",NA
+1998,6,"Wisconsin","Shiga toxin-producing","O157:H7","Confirmed","Other (describe in remarks)",63,24,0,"cheddar cheese, unspecified; cheddar cheese, unpasteurized",NA
+1998,6,"Illinois","Escherichia coli","O6","Confirmed","Caterer (food prepared off-site from where served)",916,7,0,"potato salad; macaroni salad",NA
+1998,5,"Multistate","Salmonella enterica","Cubana; Havana","Confirmed; Suspected","Other (describe in remarks)",40,NA,NA,"alfalfa sprouts",NA
+1998,5,"Multistate","Salmonella enterica","Cubana; Havana","Confirmed; Suspected","Other (describe in remarks)",40,NA,NA,"alfalfa sprouts",NA
+1999,5,"California","Salmonella enterica","Saintpaul","Confirmed","Other (describe in remarks)",36,2,0,"clover sprouts",NA
+1998,5,"Indiana","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type",27,6,0,"coleslaw",NA
+1998,5,"Indiana","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type",27,6,0,"coleslaw",NA
+1998,4,"Utah","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",22,2,0,"fried rice, unspecified; soup, egg drop; egg rolls",NA
+1998,3,"Virginia","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",23,5,0,"pie, unspecified; eggs, other",NA
+1998,3,"Texas","Norovirus Genogroup II","unknown","Confirmed","School/college/university",125,60,0,"sandwich, unspecified",NA
+1998,3,"Illinois","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",103,1,0,"mixed fruit; roast beef, unspecified",NA
+1999,3,"California","Salmonella enterica","Thompson","Confirmed",NA,35,3,0,"cilantro, unspecified",NA
+1998,3,"Pennsylvania","Salmonella enterica","Heidelberg","Confirmed","Caterer (food prepared off-site from where served)",25,1,0,"turkey and stuffing",NA
+1998,1,"California","Salmonella enterica","Enteritidis","Confirmed","Private home/residence",26,3,0,"lasagna, unspecified; eggs, other",NA
+2001,8,"Georgia","Norovirus Genogroup II","unknown","Confirmed","Private home/residence; Caterer (food prepared off-site from where served)",104,1,0,"coleslaw",NA
+2001,7,"Massachusetts","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",46,NA,0,"bearnaise sauce",NA
+2001,6,"Massachusetts","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",136,6,0,"ice; steak, other; salad dressing, unspecified",NA
+2001,10,"Washington","Norovirus Genogroup I","GI_1","Confirmed","Restaurant - other or unknown type",56,0,0,"green salad",NA
+2001,12,"Maryland","Norovirus Genogroup II","unknown","Confirmed","Private home/residence",67,2,0,"shrimp salad",NA
+2001,10,"Florida","Norovirus Genogroup II","unknown","Confirmed","School/college/university",33,NA,NA,"shell eggs, boiled hard; macaroni salad; tuna salad",NA
+2001,9,"Iowa","Salmonella enterica","Enteritidis","Confirmed","Other (describe in remarks)",27,NA,0,"chicken, nuggets/fingers","chicken"
+2001,5,"Iowa","Salmonella enterica","Typhimurium","Confirmed","Private home/residence",21,3,0,"speciality salads unspecified","chicken"
+2001,12,"Florida","Salmonella enterica","Oritamerin","Confirmed","Restaurant - other or unknown type",26,4,0,"shrimp coconut",NA
+2001,11,"North Carolina","Escherichia coli","O157:H7","Confirmed","School/college/university",202,11,0,"other milk, unpasteurized",NA
+2001,11,"North Carolina","Shiga toxin-producing","O157:H7","Confirmed","School/college/university",202,11,0,"other milk, unpasteurized",NA
+2001,4,"Florida","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",35,2,NA,"mung bean sprouts",NA
+2001,5,"Texas","Salmonella enterica","Group D1","Suspected","Caterer (food prepared off-site from where served)",23,NA,NA,"caesar salad; seafood salad",NA
+2002,3,"Iowa","Norovirus Genogroup I","GI_1","Confirmed","School/college/university",116,0,0,"sandwich, chicken","bread"
+2001,6,"New York","Salmonella enterica","Uganda","Confirmed","Restaurant - other or unknown type; Caterer (food prepared off-site from where served)",21,1,0,"pork, roasted",NA
+2002,4,"Wisconsin","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",44,1,0,"sandwich, chicken parmesan",NA
+2002,6,"Illinois","Salmonella enterica","Newport","Confirmed","Private home/residence",26,2,0,"pork, roasted",NA
+2002,4,"Wisconsin","Salmonella enterica","Hartford","Confirmed","Restaurant - other or unknown type",43,NA,0,"refried beans, unspecified",NA
+2002,6,"New York","Salmonella enterica","Enteritidis","Confirmed","Banquet Facility (food prepared and served on-site)",146,7,NA,"multiple foods",NA
+2001,5,"Minnesota","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",54,2,0,"eggs benedict","egg"
+2002,4,"North Carolina","Salmonella enterica","Heidelberg","Confirmed","Restaurant - other or unknown type",239,22,0,"gravy, beef; potato, mashed",NA
+2002,6,"Washington DC","Salmonella enterica","Muenchen","Confirmed","Restaurant - other or unknown type",57,3,0,"pasta salad",NA
+2002,8,"Maryland","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type",25,3,NA,"multiple salads",NA
+2001,6,"Maryland","Salmonella enterica","Enteritidis","Confirmed","Private home/residence; Other (describe in remarks)",26,3,0,"seafood pasta; spaghetti, unspecified; deli tray",NA
+2002,8,"Iowa","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",47,7,0,"mashed potato/gravy",NA
+2002,10,"Tennessee","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",77,0,0,"vegetable-based salads unspecified",NA
+2002,10,"Minnesota","Salmonella enterica","Enteritidis","Confirmed","Private home/residence",23,2,0,"fried rice, unspecified",NA
+2001,6,"Wisconsin","Salmonella enterica","Braenderup","Confirmed","Restaurant - other or unknown type",21,0,0,"chicken, grilled",NA
+2001,7,"Wisconsin","Salmonella enterica","Mbandaka; Javiana; Kentucky","Confirmed; Confirmed; Confirmed","Prison/jail",56,0,0,"meat sauce",NA
+2001,7,"Wisconsin","Salmonella enterica","Mbandaka; Javiana; Kentucky","Confirmed; Confirmed; Confirmed","Prison/jail",56,0,0,"meat sauce",NA
+2001,7,"Wisconsin","Salmonella enterica","Mbandaka; Javiana; Kentucky","Confirmed; Confirmed; Confirmed","Prison/jail",56,0,0,"meat sauce",NA
+2001,10,"Wisconsin","Salmonella enterica","Thompson","Confirmed; Confirmed","Private home/residence",80,NA,NA,"beef/steak dish, unspecified",NA
+2001,10,"New York","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",40,NA,NA,"cake, unspecified",NA
+2001,4,"Massachusetts","Salmonella enterica","Heidelberg","Confirmed","Restaurant - other or unknown type; Other (describe in remarks)",29,3,0,"egg-containing food, other",NA
+2001,5,"Texas","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type; Caterer (food prepared off-site from where served)",29,0,0,"cake, unspecified",NA
+2001,6,"Texas","Salmonella enterica","Panama","Confirmed","Camp",134,0,0,"beans, bbq",NA
+2001,9,"Arizona","Salmonella enterica","Anatum","Confirmed","Private home/residence",35,1,NA,"potato salad",NA
+2001,5,"Nevada","Salmonella enterica","Group C1","Suspected","Prison/jail",317,0,0,"raw egg milkshake; eggs, unspecified",NA
+2001,6,"Washington DC","Salmonella enterica","Braenderup","Confirmed","Restaurant - other or unknown type",21,NA,NA,"sandwich, other specialty",NA
+2002,11,"Maryland","Norovirus Genogroup II","unknown","Confirmed","Caterer (food prepared off-site from where served)",37,NA,NA,"crab cakes",NA
+2001,4,"Virginia","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",231,34,0,"egg-based sauce, other",NA
+2001,3,"South Carolina","Salmonella enterica","Enteritidis","Confirmed","Prison/jail",552,0,0,"tuna salad; salad bar",NA
+2001,3,"Louisiana","Salmonella enterica","Heidelberg","Confirmed","Restaurant - other or unknown type",93,18,1,"macaroni and cheese; ground beef, other; peppers, green",NA
+2002,10,"California","Salmonella enterica","Infantis; Typhimurium","Confirmed; Confirmed","Caterer (food prepared off-site from where served)",60,3,0,"beef, stew",NA
+2002,10,"California","Salmonella enterica","Infantis; Typhimurium","Confirmed; Confirmed","Caterer (food prepared off-site from where served)",60,3,0,"beef, stew",NA
+2001,6,"California","Salmonella enterica","Poona","Confirmed","Restaurant - other or unknown type; Private home/residence; Grocery store; Other (describe in remarks)",23,4,0,"honeydew melon; musk melon; watermelon",NA
+2001,7,"Oklahoma","Salmonella enterica","Berta","Confirmed","Other (describe in remarks)",51,5,0,"beef, bbq; pork, bbq; ham, other","beef"
+2001,4,"Maine","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",42,5,0,"eggs benedict; hollandaise sauce; egg-containing food, other",NA
+2001,12,"California","Salmonella enterica","Newport","Confirmed","Other (describe in remarks)",38,14,0,"queso fresco, unspecified","milk"
+2002,6,"Florida","Salmonella enterica","Javiana","Confirmed","Restaurant - other or unknown type; Other (describe in remarks)",159,3,0,"tomato, unspecified",NA
+2002,10,"Texas","Salmonella enterica","Choleraesuis","Confirmed","Restaurant - other or unknown type",33,11,0,"potato, mashed",NA
+2002,5,"California","Escherichia coli","O157:NM (H-)","Suspected","Private home/residence",48,0,0,"unspecified fruit; potato salad; bean salad",NA
+2002,5,"California","Shiga toxin-producing","O157:NM (H-)","Suspected","Private home/residence",48,0,0,"unspecified fruit; potato salad; bean salad",NA
+2002,4,"California","Escherichia coli","O157:H7","Confirmed","Fair, festival, other temp or mobile services",26,5,0,"beef, bbq","beef"
+2002,4,"California","Shiga toxin-producing","O157:H7","Confirmed","Fair, festival, other temp or mobile services",26,5,0,"beef, bbq","beef"
+2002,4,"California","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type",21,2,0,"beef, unspecified","beef"
+2002,3,"Texas","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",700,3,0,"salsa, unspecified",NA
+2002,8,"South Carolina","Salmonella enterica","Heidelberg","Confirmed","Prison/jail",26,1,0,"watermelon; ground beef, hamburger; biscuit, unspecified",NA
+2001,5,"Ohio","Norovirus Genogroup II","unknown","Confirmed","Fair, festival, other temp or mobile services",110,0,0,"frozen slush drink",NA
+2002,8,"Virginia","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",40,1,0,"house salad",NA
+2001,1,"Ohio","Norovirus Genogroup II","unknown","Confirmed","Other (describe in remarks)",250,1,0,"ambrosia; antipasta salad",NA
+2001,1,"Ohio","Norovirus Genogroup II","unknown","Confirmed","Other (describe in remarks)",27,NA,NA,"ambrosia",NA
+2001,3,"Ohio","Norovirus Genogroup II","unknown","Confirmed","Caterer (food prepared off-site from where served)",50,1,0,"sandwich, unspecified",NA
+2001,1,"Ohio","Norovirus Genogroup II","unknown","Confirmed","Other (describe in remarks)",73,0,0,"swiss cheese, pasteurized",NA
+2001,3,"Ohio","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",92,7,0,"eggs, unspecified",NA
+2002,10,"Georgia","Norovirus Genogroup II","unknown","Confirmed","Caterer (food prepared off-site from where served)",90,0,0,"vegetable dip, unspecified; vegetable tray",NA
+2002,12,"California","Salmonella enterica","Enteritidis","Confirmed","Private home/residence",90,2,0,"beef, unspecified; pork, other",NA
+2002,7,"Florida","Salmonella enterica","Johannesburg","Confirmed","Private home/residence",56,4,0,"mustard greens, unspecified; potato salad",NA
+2002,12,"Washington","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type; Private home/residence",40,2,0,"eggs, unspecified","egg"
+2002,10,"Oregon","Escherichia coli","O27","Confirmed","Caterer (food prepared off-site from where served)",49,0,0,"lasagna, chicken",NA
+2002,11,"Texas","Salmonella enterica","Muenchen; Heidelberg","Confirmed; Suspected","Prison/jail",250,0,0,"turkey, roasted",NA
+2002,11,"Texas","Salmonella enterica","Muenchen; Heidelberg","Confirmed; Suspected","Prison/jail",250,0,0,"turkey, roasted",NA
+2002,12,"Colorado","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type",51,2,0,"fruit salad",NA
+2002,2,"Missouri","Salmonella enterica","Heidelberg","Confirmed","Restaurant - other or unknown type",104,22,NA,"macaroni and cheese","egg"
+2002,11,"Ohio","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",34,6,0,"stuffing, unspecified","egg"
+2002,9,"Washington","Salmonella enterica","Hadar","Suspected","Religious facility",23,0,0,"chicken salad",NA
+2002,9,"Washington","Salmonella enterica","Berta","Confirmed","Caterer (food prepared off-site from where served)",29,NA,NA,"grapes, unspecified; cantaloupe; watermelon",NA
+2002,8,"Wyoming","Salmonella enterica","Typhimurium","Confirmed","School/college/university",116,4,0,"milk, 2% milk pasteurized",NA
+2002,11,"Ohio","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type",107,6,0,"other milk, unpasteurized","milk"
+2002,12,"Texas","Salmonella enterica","Montevideo","Confirmed","Other (describe in remarks)",55,6,0,"beef, bbq; ham, unspecified",NA
+2002,2,"Alaska","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",22,NA,0,"sandwich, chicken",NA
+2002,9,"Alaska","Salmonella enterica","Heidelberg","Confirmed","Unknown",31,NA,NA,"salmon, unspecified; pie, apple",NA
+2002,9,"Massachusetts","Escherichia coli","O157:H7","Confirmed","School/college/university",66,2,0,"pasta bar; gelatin, unspecified",NA
+2002,9,"Massachusetts","Shiga toxin-producing","O157:H7","Confirmed","School/college/university",66,2,0,"pasta bar; gelatin, unspecified",NA
+2002,5,"Delaware","Salmonella enterica","Heidelberg","Confirmed","Restaurant - other or unknown type",21,4,0,"cheese sauce; chicken, buffalo wings",NA
+2003,3,"Florida","Salmonella enterica","Group B","Confirmed","Restaurant - other or unknown type",24,3,NA,"sandwich, pork",NA
+2002,7,"Washington","Escherichia coli","O157:H7","Confirmed","Camp",55,NA,0,"caesar salad",NA
+2002,7,"Washington","Shiga toxin-producing","O157:H7","Confirmed","Camp",55,NA,0,"caesar salad",NA
+2003,6,"Illinois","Salmonella enterica","Javiana","Confirmed","Restaurant - other or unknown type",227,9,0,"fajita, chicken; taco, chicken",NA
+2003,5,"California","Salmonella enterica","unknown","Confirmed","Private home/residence; Caterer (food prepared off-site from where served); Other (describe in remarks)",23,NA,0,"bottled water",NA
+2001,4,"Multistate","Salmonella enterica","Poona","Confirmed","Grocery store; Other (describe in remarks)",50,9,2,"cantaloupe",NA
+2001,2,"Multistate","Salmonella enterica","Kottbus","Confirmed","Other (describe in remarks)",32,3,NA,"alfalfa sprouts",NA
+2001,9,"Multistate","Salmonella enterica","Senftenberg","Confirmed","Grocery store; Other (describe in remarks)",40,3,NA,"grapes, green",NA
+2001,4,"Multistate","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type",27,12,0,"multiple cheeses, unpasteurized","milk"
+2003,7,"Georgia","Salmonella enterica","Enteritidis","Confirmed","Hospital",38,NA,NA,"eggs, scrambled","egg"
+2003,8,"Maryland","Salmonella enterica","Enteritidis","Confirmed","Religious facility",104,12,0,"crab cakes","egg"
+2003,4,"Wyoming","Salmonella enterica","Heidelberg","Confirmed","Restaurant - other or unknown type",65,14,0,"swiss cheese, pasteurized; mushrooms, canned",NA
+2002,2,"Michigan","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",196,24,0,"cake, cassata; cannelloni","egg; egg"
+2003,9,"Minnesota","Salmonella enterica","Heidelberg","Confirmed","Restaurant - other or unknown type",57,7,0,"eggs, unspecified; pancakes, unspecified",NA
+2003,7,"Wisconsin","Salmonella enterica","London","Confirmed","Private home/residence",26,0,0,"sandwich, ham",NA
+2003,7,"Wisconsin","Salmonella enterica","Typhimurium","Confirmed","Other (describe in remarks)",38,3,0,"chicken, unspecified",NA
+2003,4,"Virginia","Norovirus Genogroup I","unknown","Confirmed","Caterer (food prepared off-site from where served)",58,0,0,"chicken salad",NA
+2001,3,"Multistate","Salmonella enterica","Saintpaul","Confirmed","Private home/residence",26,1,0,"mango, unspecified","fruit, unspecified"
+2003,10,"Maryland","Salmonella enterica","Enteritidis","Confirmed","Private home/residence; Grocery store",27,5,0,"ground beef, other",NA
+2003,8,"Florida","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",35,0,0,"house salad",NA
+2003,9,"Florida","Norovirus Genogroup I","unknown","Confirmed","School/college/university",52,NA,NA,"romaine lettuce, unspecified","leafy green"
+2003,9,"Wisconsin","Salmonella enterica","Newport","Confirmed","Other (describe in remarks)",25,0,0,"pork, roasted",NA
+2003,10,"Minnesota","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",30,10,0,"french toast, unspecified","egg"
+2003,6,"Florida","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type",30,3,NA,"barbecue sauce",NA
+2003,3,"Washington","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",47,1,0,"ice cream, fried; eggs, other",NA
+2003,8,"California","Salmonella enterica","Schwarzengrund","Confirmed","Private home/residence",29,4,0,"multiple foods; spaghetti, unspecified",NA
+2003,10,"North Carolina","Salmonella enterica","Montevideo","Confirmed","Restaurant - other or unknown type",25,2,0,"bbq, unspecified",NA
+2003,10,"California","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",76,9,0,"deli meat, multiple",NA
+2003,9,"California","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type; School/college/university",51,11,0,"lettuce-based salads unspecified",NA
+2003,9,"California","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type; School/college/university",51,11,0,"lettuce-based salads unspecified",NA
+2002,4,"Multistate","Salmonella enterica","Poona","Confirmed","Private home/residence; Grocery store; Long-term care/nursing home/assisted living facility",48,10,NA,"cantaloupe",NA
+2003,7,"Massachusetts","Salmonella enterica","Newport; Muenster; Heidelberg","Confirmed; Suspected; Suspected","Prison/jail",39,2,0,"chicken, baked",NA
+2003,7,"Massachusetts","Salmonella enterica","Newport; Muenster; Heidelberg","Confirmed; Suspected; Suspected","Prison/jail",39,2,0,"chicken, baked",NA
+2003,7,"Massachusetts","Salmonella enterica","Newport; Muenster; Heidelberg","Confirmed; Suspected; Suspected","Prison/jail",39,2,0,"chicken, baked",NA
+2003,5,"New Mexico","Salmonella enterica","Kiambu","Confirmed","Other (describe in remarks)",23,0,0,"beef, jerky",NA
+2003,3,"Oregon","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",37,0,0,"sandwich, french dip; salad, unspecified",NA
+2003,11,"Massachusetts","Salmonella enterica","Newport","Confirmed","Other (describe in remarks)",35,NA,0,"chicken and rice",NA
+2002,7,"Multistate","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type; Hospital; School/college/university",510,43,0,"tomato, unspecified",NA
+2002,6,"Multistate","Escherichia coli","O157:H7","Confirmed","Unknown",47,19,1,"ground beef, unspecified",NA
+2002,6,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Unknown",47,19,1,"ground beef, unspecified",NA
+2002,8,"Multistate","Escherichia coli","O157:H7","Confirmed","Unknown",74,NA,0,"ground beef, unspecified",NA
+2002,8,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Unknown",74,NA,0,"ground beef, unspecified",NA
+2004,3,"Maryland","Norovirus Genogroup I","GI_1","Confirmed","Caterer (food prepared off-site from where served)",49,1,0,"seafood salad",NA
+2003,10,"Alaska","Salmonella enterica","Typhimurium","Confirmed","Private home/residence; School/college/university",47,2,0,"ground beef, other",NA
+2003,8,"Missouri","Salmonella enterica","Thompson","Confirmed","Caterer (food prepared off-site from where served)",84,NA,NA,"chicken, other; cream sauce, unspecified",NA
+2004,2,"Florida","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",148,NA,NA,"water; lettuce-based salads unspecified",NA
+2004,2,"Florida","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",76,0,0,"house salad",NA
+2004,1,"Florida","Norovirus Genogroup II","unknown","Confirmed","Other (describe in remarks)",102,3,0,"pie, cream; tap water; house salad",NA
+2004,2,"Florida","Salmonella enterica","unknown","Suspected","Religious facility",27,NA,NA,"multiple foods",NA
+2004,5,"Connecticut","Norovirus Genogroup II","GII_3","Confirmed","Restaurant - other or unknown type",30,0,0,"cake, tiramisu",NA
+2004,1,"Florida","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",94,0,0,"multiple foods",NA
+2002,2,"Multistate","Salmonella enterica","Newport","Confirmed","Private home/residence",47,12,1,"ground beef, unspecified",NA
+2004,5,"Hawaii","Salmonella enterica","Amager","Confirmed","Other (describe in remarks)",31,0,0,"ethnic style, unspecified; pork, other; cake, unspecified","pork; pork; egg"
+2003,7,"Texas","Salmonella enterica","Heidelberg","Confirmed","Prison/jail",517,NA,NA,"chicken, baked; green pea salad","chicken; egg"
+2004,6,"Illinois","Salmonella enterica","Infantis","Confirmed","Grocery store",60,5,0,"salsa, unspecified",NA
+2004,5,"Minnesota","Salmonella enterica","Agona","Confirmed","Private home/residence",24,6,0,"sandwich, turkey",NA
+2003,8,"Texas","Salmonella enterica","Group C1","Confirmed","Prison/jail",250,0,0,"multiple foods",NA
+2003,4,"Pennsylvania","Salmonella enterica","Typhimurium","Confirmed","Private home/residence",67,2,0,"eggs, unspecified; soup, chicken; soup, mushroom",NA
+2003,5,"Virginia","Norovirus Genogroup II","unknown","Confirmed","Unknown",58,NA,NA,"butter; carrots, unspecified",NA
+2004,6,"Maryland","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",50,0,0,"sandwich, deli",NA
+2003,6,"Virginia","Norovirus Genogroup II","unknown","Confirmed","Other (describe in remarks)",45,NA,NA,"mixed vegetables, unspecified",NA
+2004,6,"Maryland","Norovirus Genogroup I","unknown","Confirmed","Restaurant - other or unknown type",28,0,0,"soup, cream of crab",NA
+2004,6,"New York","Salmonella enterica","Hadar","Confirmed","Restaurant - other or unknown type; Caterer (food prepared off-site from where served)",42,14,0,"chicken, baked","chicken"
+2004,7,"Minnesota","Escherichia coli","O157:H7","Confirmed","Religious facility",70,1,0,"spaghetti, unspecified","beef"
+2004,7,"Minnesota","Shiga toxin-producing","O157:H7","Confirmed","Religious facility",70,1,0,"spaghetti, unspecified","beef"
+2003,1,"Multistate","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type; Private home/residence; Caterer (food prepared off-site from where served); Grocery store; Long-term care/nursing home/assisted living facility; Hospital",68,13,2,"honeydew melon",NA
+2003,5,"Multistate","Salmonella enterica","Muenchen","Confirmed","Private home/residence; Grocery store; Child day care",58,15,NA,"cantaloupe; honeydew melon",NA
+2003,10,"Multistate","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type; Private home/residence",56,11,0,"ground beef, hamburger; ground beef, meatballs",NA
+2003,11,"Multistate","Salmonella enterica","Saintpaul","Confirmed","Restaurant - other or unknown type",33,15,NA,"tomato, unspecified; chicken, unspecified; iceberg lettuce, unspecified",NA
+2003,11,"Multistate","Salmonella enterica","Chester","Confirmed","Restaurant - other or unknown type; Private home/residence; Grocery store",26,3,1,"alfalfa sprouts",NA
+2003,9,"Multistate","Salmonella enterica","Typhimurium","Confirmed","Other (describe in remarks)",22,2,0,"egg salad/egg salad sandwich",NA
+2003,6,"Multistate","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type; Grocery store",40,1,0,"potato salad",NA
+2004,6,"North Carolina","Salmonella enterica","Javiana","Confirmed","Caterer (food prepared off-site from where served)",60,1,0,"beans, baked",NA
+2004,2,"California","Salmonella enterica","Heidelberg","Confirmed","Restaurant - other or unknown type",78,2,0,"sandwich, turkey","turkey"
+2004,6,"California","Salmonella enterica","Thompson","Confirmed","Prison/jail",22,0,0,"sope; beans, unspecified",NA
+2004,2,"California","Salmonella enterica","unknown","Suspected","Restaurant - other or unknown type",25,0,0,"chicken, bbq","chicken"
+2004,6,"California","Salmonella enterica","Newport","Confirmed","Other (describe in remarks)",100,5,0,"other milk, pasteurized",NA
+2004,9,"New York","Salmonella enterica","Anatum","Confirmed","Fair, festival, other temp or mobile services",108,0,0,"roast beef, other","beef"
+2004,9,"New York","Escherichia coli","O111;","Confirmed; Confirmed","Other (describe in remarks)",212,14,0,"apple cider, unpasteurized","fruit, unspecified"
+2004,9,"New York","Shiga toxin-producing","O111;","Confirmed; Confirmed","Other (describe in remarks)",212,14,0,"apple cider, unpasteurized","fruit, unspecified"
+2003,3,"Multistate","Salmonella enterica","Enteritidis","Confirmed","Other (describe in remarks)",42,10,1,"nuts, almonds",NA
+2003,12,"Virginia","Salmonella enterica","Typhimurium","Confirmed","Other (describe in remarks)",59,2,0,"beef, other",NA
+2004,11,"Minnesota","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type",49,8,0,"turkey and gravy","turkey"
+2004,11,"Florida","Norovirus Genogroup II","unknown","Suspected","Caterer (food prepared off-site from where served)",43,0,0,"multiple foods",NA
+2004,6,"Utah","Norovirus Genogroup I","unknown; unknown","Confirmed; Confirmed","Office/indoor workplace; Camp; Other (describe in remarks)",90,0,0,"water; pastry, unspecified; ice",NA
+2004,6,"Utah","Norovirus Genogroup II","unknown; unknown","Confirmed; Confirmed","Office/indoor workplace; Camp; Other (describe in remarks)",90,0,0,"water; pastry, unspecified; ice",NA
+2004,7,"California","Salmonella enterica","Anatum","Confirmed","Private home/residence",26,3,0,"spaghetti, unspecified",NA
+2004,9,"North Carolina","Salmonella enterica","Enteritidis","Confirmed","Private home/residence",30,14,0,"rutabaga","pork"
+2004,11,"Florida","Salmonella enterica","unknown","Suspected","Caterer (food prepared off-site from where served)",26,NA,NA,"potato, unspecified",NA
+2004,12,"Wisconsin","Salmonella enterica","Typhimurium","Confirmed","Prison/jail",21,2,0,"chicken, baked",NA
+2004,7,"Ohio","Salmonella enterica","Group B","Confirmed","Private home/residence",22,4,0,"chicken, roasted",NA
+2004,7,"Ohio","Salmonella enterica","Roterberg","Confirmed; Confirmed","Caterer (food prepared off-site from where served)",57,1,0,"chicken picata",NA
+2005,2,"Tennessee","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",34,9,0,"ground beef, cheeseburger; chicken, other",NA
+2004,11,"California","Salmonella enterica","Thompson","Confirmed","Restaurant - other or unknown type",100,0,0,"chicken, other","chicken"
+2004,9,"Florida","Salmonella enterica","Javiana","Confirmed","Restaurant - other or unknown type",24,5,0,"green salad",NA
+2005,3,"Tennessee","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",23,1,0,"house salad; pasta-based salads unspecified; meat/egg-based salads, unspecified",NA
+2004,11,"California","Salmonella enterica","Typhimurium","Confirmed","Private home/residence; Other (describe in remarks)",23,8,0,"turkey, unspecified","turkey"
+2003,8,"California","Salmonella enterica","Typhimurium","Confirmed","Grocery store; Other (describe in remarks)",50,7,0,"queso fresco, unpasteurized","cheese"
+2005,4,"Nebraska","Salmonella enterica","Uganda","Confirmed","Caterer (food prepared off-site from where served); Other (describe in remarks)",61,2,0,"pork, smoked",NA
+2005,4,"South Carolina","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",35,15,0,"macaroni and cheese",NA
+2005,4,"Georgia","Salmonella enterica","Enteritidis","Confirmed","Other (describe in remarks)",38,2,0,"shell eggs, scrambled hard","egg"
+2005,5,"New York","Salmonella enterica","Infantis; ; London","Confirmed; Confirmed; Confirmed","Restaurant - other or unknown type; Private home/residence",35,0,0,"potato salad","root (eg. potato)"
+2005,5,"New York","Salmonella enterica","Infantis; ; London","Confirmed; Confirmed; Confirmed","Restaurant - other or unknown type; Private home/residence",35,0,0,"potato salad","root (eg. potato)"
+2005,5,"Illinois","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type",162,NA,0,"sauces, unspecified; fajita, unspecified; guacamole",NA
+2005,2,"California","Salmonella enterica","Typhimurium","Confirmed","Other (describe in remarks)",57,8,0,"cake, unspecified",NA
+2005,4,"Michigan","Salmonella enterica","Enteritidis","Confirmed","Caterer (food prepared off-site from where served)",25,4,0,"eclair, unspecified",NA
+2005,6,"Georgia","Salmonella enterica","Enteritidis","Confirmed","Caterer (food prepared off-site from where served)",61,7,0,"stuffing/dressing; gravy, chicken; chicken, other","chicken"
+2005,5,"South Carolina","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",304,56,1,"turkey, baked",NA
+2005,5,"Utah","Salmonella enterica","Enteritidis","Confirmed","Private home/residence",126,15,0,"cantaloupe; chicken, bbq; corned beef, unspecified",NA
+2005,7,"New York","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type; Private home/residence; Fair, festival, other temp or mobile services; Grocery store; School/college/university; Other (describe in remarks)",27,2,0,"onion, unspecified; tomato, unspecified","root (eg. potato); vine-stalk eg. tomato"
+2005,7,"Colorado","Salmonella enterica","Typhimurium var Cope","Confirmed","Restaurant - other or unknown type",25,0,0,"sushi, unspecified",NA
+2005,10,"Georgia","Salmonella enterica","Heidelberg","Confirmed","Private home/residence; Religious facility",35,9,0,"turkey, roasted; stuffing/gravy",NA
+2005,7,"Florida","Norovirus Genogroup I","GI_1","Confirmed","Restaurant - other or unknown type",33,0,0,"multiple foods",NA
+2005,9,"New York","Salmonella enterica","Enteritidis","Confirmed","Grocery store",25,1,0,"sandwich, deli",NA
+2005,6,"Virginia","Salmonella enterica","Hartford","Confirmed","Religious facility",40,1,0,"sandwich, beef","ground beef"
+2005,12,"Connecticut","Norovirus Genogroup II","unknown","Confirmed","Banquet Facility (food prepared and served on-site)",23,1,0,"steak, prime rib",NA
+2004,12,"Virginia","Salmonella enterica","Weltevreden;","Confirmed; Confirmed","Other (describe in remarks)",63,NA,NA,"tuna, unspecified",NA
+2004,12,"Virginia","Salmonella enterica","Weltevreden;","Confirmed; Confirmed","Other (describe in remarks)",63,NA,NA,"tuna, unspecified",NA
+2005,8,"California","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",30,2,0,"salsa, unspecified",NA
+2005,12,"Georgia","Salmonella enterica","Heidelberg","Confirmed","Restaurant - other or unknown type",34,7,0,"hollandaise sauce","butter; egg"
+2005,6,"California","Salmonella enterica","Heidelberg; Saintpaul; Brandenburg","Confirmed; Confirmed; Confirmed","Prison/jail",157,1,0,"spread/filling, other","egg"
+2005,6,"California","Salmonella enterica","Heidelberg; Saintpaul; Brandenburg","Confirmed; Confirmed; Confirmed","Prison/jail",157,1,0,"spread/filling, other","egg"
+2005,6,"California","Salmonella enterica","Heidelberg; Saintpaul; Brandenburg","Confirmed; Confirmed; Confirmed","Prison/jail",157,1,0,"spread/filling, other","egg"
+2006,1,"Connecticut","Norovirus Genogroup II","unknown","Confirmed","Banquet Facility (food prepared and served on-site)",59,0,0,"ice",NA
+2005,11,"Michigan","Salmonella enterica","Heidelberg","Confirmed","Religious facility",75,5,0,"sandwich, other; vanilla cake",NA
+2005,4,"Maryland","Norovirus Genogroup II","unknown","Confirmed","Other (describe in remarks)",148,0,0,"mixed fruit",NA
+2006,1,"Ohio","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",113,23,0,"oil, unspecified; liver, chicken","egg; egg"
+2005,8,"Minnesota","Salmonella enterica","Enteritidis","Confirmed","Private home/residence",27,6,0,"stuffed chicken",NA
+2006,1,"California","Norovirus Genogroup II","unknown","Confirmed","Private home/residence; Caterer (food prepared off-site from where served); Religious facility",23,0,0,"alcohol",NA
+2006,3,"Mississippi","Salmonella enterica","Heidelberg","Confirmed","Grocery store",25,12,0,"macaroni and cheese",NA
+2006,2,"Arkansas","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type",161,7,0,"chicken, teriyaki; sushi, unspecified","chicken"
+2006,4,"Tennessee","Norovirus Genogroup II","unknown","Confirmed","Caterer (food prepared off-site from where served)",70,1,0,"coleslaw",NA
+2005,3,"Virginia","Salmonella enterica","Enteritidis","Confirmed","Prison/jail",27,1,0,"eggs, other","egg"
+2006,6,"Connecticut","Norovirus Genogroup I","unknown","Confirmed","Banquet Facility (food prepared and served on-site); Other (describe in remarks)",34,0,0,"pizza, vegetable",NA
+2006,6,"Minnesota","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type",50,6,0,"soup, other vegetable-based",NA
+2006,6,"New York","Salmonella enterica","Heidelberg; Agona","Confirmed; Suspected","Restaurant - other or unknown type",32,0,0,"scallop, conch, sea cucumber",NA
+2006,6,"New York","Salmonella enterica","Heidelberg; Agona","Confirmed; Suspected","Restaurant - other or unknown type",32,0,0,"scallop, conch, sea cucumber",NA
+2006,4,"Michigan","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",108,5,0,"lettuce based salads",NA
+2006,5,"California","Salmonella enterica","Newport","Confirmed","Private home/residence; Other (describe in remarks)",24,NA,NA,"multiple foods",NA
+2005,7,"Virginia","Salmonella enterica","Hartford","Confirmed","Restaurant - other or unknown type",29,3,0,"house salad",NA
+2006,5,"Wisconsin","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",48,2,0,"broccoli, unspecified",NA
+2006,7,"Tennessee","Salmonella enterica","Anatum","Confirmed","Restaurant - other or unknown type",55,7,0,"pork, bbq",NA
+2005,7,"Virginia","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type; Private home/residence; Caterer (food prepared off-site from where served)",37,2,0,"chicken biryani",NA
+2006,5,"Michigan","Norovirus Genogroup II","unknown","Confirmed","Private home/residence",23,NA,NA,"jello salad",NA
+2006,4,"Michigan","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",70,0,0,"salad dressing, unspecified",NA
+2006,5,"Colorado","Salmonella enterica","Heidelberg","Confirmed","Restaurant - other or unknown type",22,6,0,"chicken, teriyaki",NA
+2006,7,"California","Norovirus Genogroup II","unknown","Confirmed","Private home/residence",32,0,0,"mixed fruit",NA
+2006,3,"Arizona","Norovirus Genogroup II","unknown","Suspected","Caterer (food prepared off-site from where served)",26,0,0,"pie, apple",NA
+2006,2,"Virginia","Salmonella enterica","Typhimurium","Confirmed","Prison/jail",40,1,0,"turkey, unspecified",NA
+2006,8,"California","Salmonella enterica","Newport","Confirmed","Religious facility",27,2,0,"potato, boiled",NA
+2005,5,"Multistate","Salmonella enterica","Typhimurium; Saintpaul","Confirmed; Confirmed","Other (describe in remarks)",157,NA,NA,"orange juice, unpasteurized",NA
+2005,5,"Multistate","Salmonella enterica","Typhimurium; Saintpaul","Confirmed; Confirmed","Other (describe in remarks)",157,NA,NA,"orange juice, unpasteurized",NA
+2005,5,"Multistate","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type",26,11,0,"ice cream, commercial",NA
+2005,4,"Multistate","Escherichia coli","O157:H7","Confirmed","Private home/residence",60,11,NA,"ground beef, hamburger",NA
+2005,4,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Private home/residence",60,11,NA,"ground beef, hamburger",NA
+2005,7,"Multistate","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type",72,8,0,"tomato, beefsteak","vine-stalk eg. tomato"
+2005,9,"Multistate","Escherichia coli","O157:H7","Confirmed","Other (describe in remarks)",34,12,NA,"lettuce, prepackaged",NA
+2005,9,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Other (describe in remarks)",34,12,NA,"lettuce, prepackaged",NA
+2005,11,"Multistate","Salmonella enterica","Enteritidis; Typhimurium; Kentucky","Confirmed; Confirmed; Confirmed","Private home/residence",44,2,0,"stuffed chicken","chicken"
+2005,11,"Multistate","Salmonella enterica","Enteritidis; Typhimurium; Kentucky","Confirmed; Confirmed; Confirmed","Private home/residence",44,2,0,"stuffed chicken","chicken"
+2005,11,"Multistate","Salmonella enterica","Enteritidis; Typhimurium; Kentucky","Confirmed; Confirmed; Confirmed","Private home/residence",44,2,0,"stuffed chicken","chicken"
+2005,7,"Multistate","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type; Private home/residence",23,5,0,"mayonnaise, homemade; cake, tiramisu; eggs, other; crab cakes","egg; egg; egg; egg"
+2006,4,"California","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type; Caterer (food prepared off-site from where served)",56,0,0,"multiple foods",NA
+2005,11,"Multistate","Salmonella enterica","Braenderup","Confirmed","Restaurant - other or unknown type",84,8,0,"roma tomato","vine-stalk eg. tomato"
+2006,8,"North Carolina","Salmonella enterica","Bareilly","Confirmed","School/college/university",25,0,0,"ice tea",NA
+2006,8,"California","Norovirus Genogroup II","unknown","Confirmed","Caterer (food prepared off-site from where served)",36,1,0,"caesar salad; salad, other; bread, unspecified",NA
+2006,8,"Georgia","Salmonella enterica","Montevideo","Confirmed","Restaurant - other or unknown type",72,19,0,"sandwich, roast beef","beef"
+2006,10,"South Carolina","Salmonella enterica","Thompson","Confirmed","Fair, festival, other temp or mobile services",100,3,0,"peanuts",NA
+2006,10,"California","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",24,2,0,"multiple foods",NA
+2006,7,"Wisconsin","Norovirus Genogroup II","unknown","Confirmed","Banquet Facility (food prepared and served on-site); Caterer (food prepared off-site from where served)",62,0,0,"cake, unspecified",NA
+2006,7,"Michigan","Norovirus Genogroup I","unknown","Confirmed","Other (describe in remarks)",23,0,0,"salmon, smoked",NA
+1999,10,"Multistate","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type; Long-term care/nursing home/assisted living facility",45,0,0,"romaine lettuce, unspecified; caesar salad","leafy green"
+1999,10,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type; Long-term care/nursing home/assisted living facility",45,0,0,"romaine lettuce, unspecified; caesar salad","leafy green"
+2005,5,"Texas","Salmonella enterica","Braenderup","Confirmed",NA,25,NA,NA,"soup, chicken",NA
+2006,8,"Pennsylvania","Salmonella enterica","Muenster","Confirmed","Restaurant - other or unknown type",60,2,0,"pork, bbq","pork"
+2006,8,"California","Salmonella enterica","Agona","Confirmed","Private home/residence",40,0,0,"chicken","chicken"
+2007,1,"Connecticut","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",30,0,0,"pizza, unspecified",NA
+2006,4,"California","Norovirus Genogroup II","unknown","Confirmed",NA,21,NA,NA,"beans, unspecified",NA
+2006,12,"Florida","Norovirus Genogroup I","unknown","Suspected","Restaurant - other or unknown type",43,0,0,"sandwich, submarine",NA
+2006,12,"Iowa","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",32,1,0,"ham, other","leafy green; pork; wraps/tortillas"
+2006,11,"Texas","Salmonella enterica","Newport","Confirmed","School/college/university",77,2,0,"turkey and gravy; tea, unspecified",NA
+2006,4,"California","Salmonella enterica","Heidelberg","Confirmed","Restaurant - other or unknown type",22,5,0,"mayonnaise made with raw eggs",NA
+2006,12,"Florida","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",24,2,0,"ice",NA
+2006,7,"Oklahoma","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",21,0,0,"unspecified vegetables; lettuce based salads; shrimp dishes unspecified",NA
+2006,6,"California","Salmonella enterica","Typhimurium","Confirmed","Banquet Facility (food prepared and served on-site); Other (describe in remarks)",39,0,0,"chicken skewers",NA
+2006,9,"Arizona","Salmonella enterica","Oranienburg","Confirmed","Restaurant - other or unknown type",59,NA,0,"hard ice tea",NA
+2006,12,"Wisconsin","Norovirus Genogroup II","unknown","Confirmed","Other (describe in remarks)",33,NA,0,"beef, other",NA
+2006,12,"Michigan","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",61,1,0,"fruit salad; green salad; pasta salad",NA
+2006,12,"Wisconsin","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",24,NA,0,"sausage, beef",NA
+2007,1,"Georgia","Salmonella enterica","Montevideo","Confirmed","Restaurant - other or unknown type",31,14,0,"pork, smoked",NA
+2006,5,"Indiana","Salmonella enterica","Typhimurium","Confirmed","Grocery store",199,39,0,"deli meat, unspecified",NA
+2007,4,"Wisconsin","Norovirus Genogroup II","unknown","Confirmed","Caterer (food prepared off-site from where served)",86,0,0,"potato salad",NA
+2007,5,"Ohio","Norovirus Genogroup I","unknown","Confirmed","Restaurant - other or unknown type",100,2,0,"sandwich, submarine",NA
+2007,4,"Louisiana","Salmonella enterica","Braenderup","Confirmed",NA,31,5,1,"chicken, bbq","chicken"
+2006,3,"Illinois","Salmonella enterica","Newport; Meleagridis","Confirmed; Confirmed","Unknown",96,36,0,"other cheese, unpasteurized",NA
+2006,3,"Illinois","Salmonella enterica","Newport; Meleagridis","Confirmed; Confirmed","Unknown",96,36,0,"other cheese, unpasteurized",NA
+2007,2,"California","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",27,0,0,"multiple foods",NA
+2007,5,"California","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",25,1,0,"chicken stir fry",NA
+2007,5,"Pennsylvania","Norovirus Genogroup I","GI_1","Confirmed","Prison/jail",98,0,0,"chicken; sandwich, chicken; ham, other; mixed vegetables, carrots and celery",NA
+2007,6,"Maryland","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",94,1,0,"tap water",NA
+2007,6,"Wisconsin","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type; Other (describe in remarks)",49,0,0,"mixed vegetables, unspecified",NA
+2007,6,"Washington DC","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type; Private home/residence",46,NA,NA,"tomato, unspecified; avocado, unspecified; guacamole, unspecified; cilantro, unspecified",NA
+2007,6,"Illinois","Salmonella enterica","Heidelberg","Confirmed","Restaurant - other or unknown type; Fair, festival, other temp or mobile services",802,29,0,"hummus",NA
+2006,6,"Multistate","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type",115,8,0,"tomato, unspecified",NA
+2006,8,"Multistate","Escherichia coli","O157:H7","Confirmed","Private home/residence; Other (describe in remarks)",238,103,5,"spinach",NA
+2006,8,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Private home/residence; Other (describe in remarks)",238,103,5,"spinach",NA
+2006,11,"Multistate","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type",77,55,0,"lettuce, unspecified",NA
+2006,11,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type",77,55,0,"lettuce, unspecified",NA
+2006,11,"Multistate","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type",80,23,0,"lettuce, unspecified",NA
+2006,11,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type",80,23,0,"lettuce, unspecified",NA
+2006,6,"Multistate","Salmonella enterica","Oranienburg","Confirmed","Long-term care/nursing home/assisted living facility; Hospital",41,7,0,"fruit salad",NA
+2006,9,"Multistate","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type; Private home/residence",192,24,0,"tomato, unspecified",NA
+2006,8,"Multistate","Salmonella enterica","Tennessee","Confirmed","Other (describe in remarks)",715,129,0,"peanut butter",NA
+2007,7,"Minnesota","Escherichia coli","O157:H7","Confirmed","Other (describe in remarks)",26,2,0,"beans, baked; unknown fruit",NA
+2007,7,"Minnesota","Shiga toxin-producing","O157:H7","Confirmed","Other (describe in remarks)",26,2,0,"beans, baked; unknown fruit",NA
+2007,7,"Illinois","Norovirus Genogroup I","unknown","Suspected","Restaurant - other or unknown type; Private home/residence; Other (describe in remarks)",26,NA,NA,"ice water",NA
+2007,2,"California","Salmonella enterica","Montevideo","Confirmed","Restaurant - other or unknown type; Private home/residence; Other (describe in remarks)",24,3,0,"bean sprouts",NA
+2007,7,"California","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",24,0,0,"desserts",NA
+2007,3,"Kentucky","Norovirus Genogroup II","unknown","Confirmed","Caterer (food prepared off-site from where served)",27,0,0,"sandwich, wrap","leafy green"
+2007,6,"Alabama","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type",26,11,1,"lettuce-based salads unspecified",NA
+2007,6,"Alabama","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type",26,11,1,"lettuce-based salads unspecified",NA
+2007,3,"North Carolina","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",31,4,0,"pudding, banana",NA
+2007,7,"North Carolina","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",24,6,0,"pudding, banana",NA
+2007,7,"Virginia","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type; Private home/residence; Other (describe in remarks)",33,4,0,"cheese, unspecified; shami kabob",NA
+2007,3,"California","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type",52,6,0,"multiple foods",NA
+2007,3,"California","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type",52,6,0,"multiple foods",NA
+2007,7,"Colorado","Escherichia coli","O121; O26; O84","Confirmed; Confirmed; Confirmed","Prison/jail",135,10,0,"american cheese, pasteurized; margarine","cheese"
+2007,7,"Colorado","Shiga toxin-producing","O121; O26; O84","Confirmed; Confirmed; Confirmed","Prison/jail",135,10,0,"american cheese, pasteurized; margarine","cheese"
+2007,7,"Colorado","Escherichia coli","O121; O26; O84","Confirmed; Confirmed; Confirmed","Prison/jail",135,10,0,"american cheese, pasteurized; margarine","cheese"
+2007,7,"Colorado","Shiga toxin-producing","O121; O26; O84","Confirmed; Confirmed; Confirmed","Prison/jail",135,10,0,"american cheese, pasteurized; margarine","cheese"
+2007,7,"Colorado","Escherichia coli","O121; O26; O84","Confirmed; Confirmed; Confirmed","Prison/jail",135,10,0,"american cheese, pasteurized; margarine","cheese"
+2007,7,"Colorado","Shiga toxin-producing","O121; O26; O84","Confirmed; Confirmed; Confirmed","Prison/jail",135,10,0,"american cheese, pasteurized; margarine","cheese"
+2007,10,"Minnesota","Salmonella enterica","Typhimurium","Confirmed","Restaurant - other or unknown type",23,1,0,"tomato, unspecified",NA
+2007,10,"Georgia","Salmonella enterica","Newport","Confirmed","Caterer (food prepared off-site from where served); Fair, festival, other temp or mobile services",67,5,0,"pork, bbq","pork"
+2007,11,"Oregon","Norovirus Genogroup I","GI_1","Suspected","Caterer (food prepared off-site from where served)",25,1,0,"sandwich, turkey; sandwich, beef; sandwich, ham; sandwich, tuna fish","leafy green; leafy green; leafy green; leafy green"
+2007,9,"Kansas","Norovirus Genogroup II","unknown;","Suspected; Suspected","Caterer (food prepared off-site from where served)",64,0,0,"sausage",NA
+2007,11,"California","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type; Private home/residence; Fair, festival, other temp or mobile services",50,0,0,"mutiple mexican foods","beef; leafy green; wraps/tortillas"
+2007,12,"Connecticut","Norovirus Genogroup II","unknown","Confirmed","Caterer (food prepared off-site from where served)",37,0,0,"appetizers",NA
+2007,12,"Georgia","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",27,3,0,"turkey, roasted; stuffing, unspecified",NA
+2007,10,"California","Norovirus Genogroup II","unknown","Suspected","Caterer (food prepared off-site from where served)",37,0,0,"multiple foods",NA
+2007,1,"Florida","Salmonella enterica","Heidelberg","Confirmed",NA,79,NA,NA,"mashed potato/gravy",NA
+2007,9,"Pennsylvania","Salmonella enterica","Typhimurium","Confirmed","Other (describe in remarks)",66,3,0,"pork, roasted",NA
+2008,1,"Illinois","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",48,0,0,"steak, prime rib; lettuce based salads; bread, unspecified",NA
+2007,12,"Pennsylvania","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",78,2,0,"eggs, unspecified; desserts; dessert, other",NA
+2007,5,"New Jersey","Salmonella enterica","Litchfield","Confirmed","Restaurant - other or unknown type",30,5,0,"fruit salad; green salad; cantaloupe; honeydew melon; grapes, unspecified",NA
+2007,5,"Virginia","Salmonella enterica","London; Typhimurium","Confirmed; Confirmed","Restaurant - other or unknown type",28,0,0,"crispy pork","pork"
+2007,5,"Virginia","Salmonella enterica","London; Typhimurium","Confirmed; Confirmed","Restaurant - other or unknown type",28,0,0,"crispy pork","pork"
+2008,2,"Arizona","Salmonella enterica","Newport","Confirmed","Fair, festival, other temp or mobile services",87,7,0,"tri-tip",NA
+2008,2,"South Carolina","Salmonella enterica","Braenderup","Confirmed","Restaurant - other or unknown type",27,1,0,"pork, bbq",NA
+2007,7,"Multistate","Escherichia coli","O157:H7","Confirmed","Private home/residence",27,11,0,"pepperoni",NA
+2007,7,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Private home/residence",27,11,0,"pepperoni",NA
+2008,3,"Tennessee","Norovirus Genogroup II","unknown","Confirmed","Caterer (food prepared off-site from where served)",59,0,0,"cake; fruit tea",NA
+2008,3,"Oklahoma","Norovirus Genogroup II","unknown","Confirmed","Private home/residence; Grocery store; Religious facility",36,0,0,"ice; chicken",NA
+2008,3,"Connecticut","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",70,2,0,"house salad",NA
+2008,1,"California","Norovirus Genogroup II","unknown","Confirmed","Banquet Facility (food prepared and served on-site)",73,0,0,"multiple foods",NA
+2008,3,"Illinois","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",36,0,0,"chicken sate; turtle chocolate cookie",NA
+2008,4,"Ohio","Norovirus Genogroup I","unknown","Confirmed","Restaurant - other or unknown type; Caterer (food prepared off-site from where served)",23,0,0,"unspecified fruit; vegetable tray",NA
+2007,2,"Multistate","Salmonella enterica","Wandsworth; Typhimurium","Confirmed; Confirmed","Other (describe in remarks)",87,8,0,"vegetable snack, commercially packed","spices"
+2007,2,"Multistate","Salmonella enterica","Wandsworth; Typhimurium","Confirmed; Confirmed","Other (describe in remarks)",87,8,0,"vegetable snack, commercially packed","spices"
+2007,10,"Multistate","Salmonella enterica","Newport","Confirmed","Private home/residence",43,15,NA,"ground beef, unspecified",NA
+2007,4,"Multistate","Escherichia coli","O157:H7","Confirmed",NA,21,5,0,"ground beef, unspecified",NA
+2007,4,"Multistate","Shiga toxin-producing","O157:H7","Confirmed",NA,21,5,0,"ground beef, unspecified",NA
+2006,7,"Multistate","Escherichia coli","O157:H7","Confirmed","Private home/residence",44,21,NA,"ground beef, unspecified",NA
+2006,7,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Private home/residence",44,21,NA,"ground beef, unspecified",NA
+2008,4,"Connecticut","Norovirus Genogroup II","unknown","Confirmed","Other (describe in remarks)",30,0,0,"lettuce-based salads unspecified",NA
+2007,2,"Multistate","Salmonella enterica","I 4,[5],12:i:-","Confirmed","Private home/residence",401,108,3,"pot pie",NA
+2008,4,"Illinois","Norovirus Genogroup II","unknown","Suspected","Restaurant - other or unknown type",100,3,0,"sandwich, deli",NA
+2007,1,"Multistate","Salmonella enterica","Enteritidis","Confirmed","Private home/residence",81,9,0,"eggs, scrambled","egg"
+2008,4,"Ohio","Salmonella enterica","Muenchen","Confirmed","Restaurant - other or unknown type",67,10,0,"salsa, unspecified; rice; beans, unspecified",NA
+2007,8,"Multistate","Escherichia coli","O157:H7","Confirmed","Private home/residence",46,NA,NA,"ground beef","ground beef"
+2007,8,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Private home/residence",46,NA,NA,"ground beef","ground beef"
+2008,4,"Florida","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",84,2,0,"coleslaw",NA
+2007,6,"Multistate","Escherichia coli","O157:H7","Confirmed","Private home/residence",21,2,NA,"ground beef, unspecified","ground beef"
+2007,6,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Private home/residence",21,2,NA,"ground beef, unspecified","ground beef"
+2008,4,"Florida","Norovirus Genogroup I","unknown","Confirmed","Banquet Facility (food prepared and served on-site)",24,0,0,"muffin, unspecified",NA
+2008,4,"Wyoming","Norovirus Genogroup II","unknown","Confirmed","Banquet Facility (food prepared and served on-site)",23,1,0,"mixed fruit",NA
+2008,5,"Georgia","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",21,0,0,"pasta-based salads unspecified; chicken salad",NA
+2007,2,"Multistate","Norovirus Genogroup I","unknown","Confirmed","Restaurant - other or unknown type; Banquet Facility (food prepared and served on-site)",40,0,0,"oysters","oysters"
+2008,3,"Kansas","Norovirus Genogroup I","unknown","Confirmed","School/college/university",92,2,0,"sausage, pigs in a blanket",NA
+2007,2,"Multistate","Salmonella enterica","Typhimurium","Confirmed","Private home/residence; Grocery store; Other (describe in remarks)",76,4,0,"lettuce, unspecified; spinach","leafy green; leafy green"
+2008,4,"Texas","Salmonella enterica","Rubislaw","Confirmed","Religious facility",146,1,0,"meats",NA
+2008,4,"Kansas","Norovirus Genogroup II","unknown","Confirmed","School/college/university",134,0,0,"cake; chicken, nuggets/fingers; ribs; potato, unspecified",NA
+2008,6,"Kansas","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",29,4,0,"pico de gallo; guacamole",NA
+2008,5,"Florida","Norovirus Genogroup I","GI_1","Suspected","Banquet Facility (food prepared and served on-site)",29,NA,NA,"lettuce-based salads unspecified",NA
+2007,6,"Multistate","Salmonella enterica","Newport","Confirmed","Restaurant - other or unknown type; Private home/residence",65,11,0,"tomato, beefsteak","vine-stalk eg. tomato"
+2008,7,"Minnesota","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",46,1,0,"deli meat, sliced turkey ham",NA
+2008,7,"Oregon","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",151,1,0,"lettuce wraps",NA
+2008,3,"Michigan","Norovirus Genogroup II","unknown","Confirmed","Banquet Facility (food prepared and served on-site); Other (describe in remarks)",30,2,0,"green salad; cucumber, unspecified",NA
+2008,8,"Missouri","Salmonella enterica","I 4,[5],12:i:-;","Confirmed; Confirmed","Private home/residence",43,3,0,"pudding, unspecified; whipped cream, unpasteurized",NA
+2008,7,"Georgia","Norovirus Genogroup II","unknown","Confirmed","Private home/residence; Caterer (food prepared off-site from where served)",27,0,0,"other cheese, pasteurized; watermelon; grapes, unspecified",NA
+2007,8,"Multistate","Salmonella enterica","Paratyphi B","Confirmed","Restaurant - other or unknown type; Grocery store; Other (describe in remarks)",44,5,0,"fish, ahi",NA
+2008,8,"Virginia","Salmonella enterica","Braenderup; Bovismorbificans; Javiana; Thompson; Rubislaw; Barranquilla","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Caterer (food prepared off-site from where served)",45,1,0,"hybrid striped bass","fin fish"
+2008,8,"Virginia","Salmonella enterica","Braenderup; Bovismorbificans; Javiana; Thompson; Rubislaw; Barranquilla","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Caterer (food prepared off-site from where served)",45,1,0,"hybrid striped bass","fin fish"
+2008,8,"Virginia","Salmonella enterica","Braenderup; Bovismorbificans; Javiana; Thompson; Rubislaw; Barranquilla","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Caterer (food prepared off-site from where served)",45,1,0,"hybrid striped bass","fin fish"
+2008,8,"Virginia","Salmonella enterica","Braenderup; Bovismorbificans; Javiana; Thompson; Rubislaw; Barranquilla","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Caterer (food prepared off-site from where served)",45,1,0,"hybrid striped bass","fin fish"
+2008,8,"Virginia","Salmonella enterica","Braenderup; Bovismorbificans; Javiana; Thompson; Rubislaw; Barranquilla","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Caterer (food prepared off-site from where served)",45,1,0,"hybrid striped bass","fin fish"
+2008,8,"Virginia","Salmonella enterica","Braenderup; Bovismorbificans; Javiana; Thompson; Rubislaw; Barranquilla","Confirmed; Confirmed; Confirmed; Confirmed; Confirmed; Confirmed","Caterer (food prepared off-site from where served)",45,1,0,"hybrid striped bass","fin fish"
+2008,7,"Virginia","Escherichia coli","O157:H7","Confirmed","Camp",59,9,0,"ground beef, other","ground beef"
+2008,7,"Virginia","Shiga toxin-producing","O157:H7","Confirmed","Camp",59,9,0,"ground beef, other","ground beef"
+2008,9,"Georgia","Norovirus Genogroup II","unknown","Confirmed","Private home/residence",42,0,0,"fruit salad",NA
+2008,10,"Tennessee","Salmonella enterica","Anatum","Confirmed","Caterer (food prepared off-site from where served)",50,2,0,"bbq, unspecified",NA
+2008,9,"California","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type",27,5,0,"tri-tip","beef"
+2008,9,"California","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type",27,5,0,"tri-tip","beef"
+2008,10,"Illinois","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",64,1,0,"lettuce based salads; relish, tomato",NA
+2008,11,"New York","Salmonella enterica","Enteritidis","Confirmed","Religious facility",66,16,0,"specialty/ethnic dishes","chicken"
+2001,1,"Hawaii","Salmonella enterica","Enteritidis","Confirmed","School/college/university",22,3,0,"mung bean sprouts","sprouts"
+1998,8,"Hawaii","Salmonella enterica","Enteritidis","Confirmed",NA,38,3,0,"eggs, other","egg"
+2008,11,"Arizona","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",28,0,0,"fried chicken salad",NA
+1999,4,"Hawaii","Salmonella enterica","Enteritidis","Confirmed",NA,21,NA,0,"beef/steak dishes","egg"
+2008,8,"New York","Salmonella enterica","Hadar","Confirmed","Restaurant - other or unknown type",50,15,0,"turkey","turkey"
+2008,5,"Arizona","Salmonella enterica","Montevideo","Confirmed","Restaurant - other or unknown type",101,21,0,"cheese, unspecified; cilantro, unspecified; chicken, raw",NA
+2000,8,"Multistate","Salmonella enterica","Enteritidis","Confirmed","Other (describe in remarks)",50,5,0,"egg-containing food, other",NA
+2001,6,"Multistate","Salmonella enterica","Enteritidis","Confirmed","Unknown",113,0,0,"eggs, unspecified",NA
+2008,10,"West Virginia","Norovirus Genogroup I","unknown","Suspected","School/college/university",57,3,0,"peanut butter; salad bar",NA
+2008,6,"California","Salmonella enterica","Typhimurium","Suspected","Other (describe in remarks)",24,1,0,"mutiple mexican foods",NA
+2008,8,"North Carolina","Salmonella enterica","Javiana","Confirmed","Other (describe in remarks)",71,17,0,"pork, bbq",NA
+2008,10,"Washington","Escherichia coli","O157:H7","Confirmed","Restaurant - other or unknown type",68,4,0,"guacamole, unspecified",NA
+2008,10,"Washington","Shiga toxin-producing","O157:H7","Confirmed","Restaurant - other or unknown type",68,4,0,"guacamole, unspecified",NA
+2008,12,"Illinois","Norovirus Genogroup I","unknown","Confirmed","Restaurant - other or unknown type",35,0,0,"cheese; ham",NA
+2008,12,"Connecticut","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",21,0,0,"mozzarella prosciuto",NA
+2008,12,"Ohio","Norovirus Genogroup I","unknown","Confirmed","Banquet Facility (food prepared and served on-site); Caterer (food prepared off-site from where served)",60,NA,0,"fruit salad; vegetable-based salads unspecified",NA
+2008,11,"Florida","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type; School/college/university",33,0,0,"ice tea; ice","water based (eg. drink mix); water"
+2008,12,"California","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",23,0,0,"cantaloupe",NA
+2008,9,"Colorado","Escherichia coli","O157:NM (H-)","Confirmed","Restaurant - other or unknown type; Caterer (food prepared off-site from where served)",21,2,0,"alfalfa sprouts; iceberg lettuce, unspecified","sprouts; leafy green"
+2008,9,"Colorado","Shiga toxin-producing","O157:NM (H-)","Confirmed","Restaurant - other or unknown type; Caterer (food prepared off-site from where served)",21,2,0,"alfalfa sprouts; iceberg lettuce, unspecified","sprouts; leafy green"
+2008,9,"Michigan","Norovirus Genogroup II","unknown","Confirmed","Caterer (food prepared off-site from where served)",34,0,0,"fruit salad",NA
+2008,7,"Washington","Salmonella enterica","Enteritidis","Confirmed","Restaurant - other or unknown type",82,4,0,"fried rice, unspecified",NA
+2008,1,"California","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",51,0,0,"house salad","leafy green"
+2008,5,"Multistate","Escherichia coli","O157:H7","Confirmed","Private home/residence",79,32,0,"ground beef, unspecified",NA
+2008,5,"Multistate","Shiga toxin-producing","O157:H7","Confirmed","Private home/residence",79,32,0,"ground beef, unspecified",NA
+2008,12,"Puerto Rico","Salmonella enterica","Infantis","Confirmed","Caterer (food prepared off-site from where served)",31,0,0,"pork",NA
+2008,4,"Virginia","Norovirus Genogroup II","unknown","Confirmed","Office/indoor workplace",117,0,0,"sandwich, chicken; potato salad",NA
+2008,10,"California","Salmonella enterica","Javiana","Confirmed","Other (describe in remarks)",594,31,0,"watermelon","melon"
+2008,11,"California","Salmonella enterica","Heidelberg","Confirmed","Private home/residence",80,1,0,"taco, unspecified",NA
+2008,6,"Multistate","Escherichia coli","O157:H7","Confirmed",NA,49,20,0,"ground beef, unspecified","ground beef"
+2008,6,"Multistate","Shiga toxin-producing","O157:H7","Confirmed",NA,49,20,0,"ground beef, unspecified","ground beef"
+2008,4,"Multistate","Salmonella enterica","Saintpaul","Confirmed",NA,1500,308,2,"peppers, jalapeno; tomato, unspecified; peppers, serrano",NA
+2008,9,"Multistate","Salmonella enterica","Typhimurium","Confirmed",NA,714,166,9,"peanut butter; peanut paste",NA
+2008,7,"Multistate","Salmonella enterica","Hartford","Confirmed",NA,22,0,0,"salsa, unspecified",NA
+2008,4,"Multistate","Salmonella enterica","Saintpaul","Confirmed",NA,26,1,0,"ground turkey, unspecified",NA
+2008,9,"Multistate","Escherichia coli","O157:H7","Confirmed",NA,74,NA,0,"iceberg lettuce, unspecified",NA
+2008,9,"Multistate","Shiga toxin-producing","O157:H7","Confirmed",NA,74,NA,0,"iceberg lettuce, unspecified",NA
+2008,1,"Multistate","Salmonella enterica","Agona","Confirmed",NA,36,12,0,"cereal, puffed rice; cereal, puffed wheat",NA
+2008,11,"Florida","Norovirus Genogroup II","unknown","Confirmed","Restaurant - other or unknown type",31,1,0,"ground beef, meatloaf",NA
+2007,12,"Multistate","Salmonella enterica","Litchfield","Confirmed","Restaurant - other or unknown type; Private home/residence; Hospital",53,17,0,"cantaloupe",NA
+2008,7,"Multistate","Salmonella enterica","Typhimurium","Confirmed","Unknown",24,NA,NA,"alfalfa sprouts",NA
+2008,4,"New Jersey","Salmonella enterica","Java","Confirmed","Other (describe in remarks)",70,0,0,"cheddar cheese",NA
+2008,12,"Multistate","Salmonella enterica","Rissen","Confirmed","Restaurant - other or unknown type; Long-term care/nursing home/assisted living facility; Other (describe in remarks)",87,NA,NA,"white pepper, ground",NA
+2008,7,"Nebraska","Escherichia coli","O111","Suspected","Other (describe in remarks)",34,2,NA,"pork, bbq",NA
+1999,8,"Multistate","Salmonella enterica","Muenchen","Confirmed","Restaurant - other or unknown type",157,16,0,"alfalfa sprouts","sprouts"
+2014,9,"California","Salmonella enterica","Heidelberg","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",36,5,0,"chicken, grilled",NA
+2014,8,"California","Salmonella enterica","Carmel","Confirmed","Private home/residence; Caterer (food prepared off-site from where served)",33,1,0,"chicken","chicken"
+2015,3,"Kansas","Norovirus Genogroup I","unknown","Suspected","School/college/university",38,1,0,"popcorn",NA
+2014,6,"Multistate","Salmonella enterica","Paratyphi B","Confirmed",NA,21,5,0,"peppers, mini",NA
+2014,10,"Multistate","Salmonella enterica","Javiana","Confirmed",NA,36,8,0,"cucumber, mini",NA
+2014,6,"Washington","Salmonella enterica","Anatum; I 4,[5],12:i:-;","Confirmed; Confirmed; Confirmed","Restaurant - Sit-down dining; Private home/residence; Other (describe in remarks)",35,4,0,"beef; lamb; pork, roasted",NA
+2014,6,"Washington","Salmonella enterica","Anatum; I 4,[5],12:i:-;","Confirmed; Confirmed; Confirmed","Restaurant - Sit-down dining; Private home/residence; Other (describe in remarks)",35,4,0,"beef; lamb; pork, roasted",NA
+2014,6,"Washington","Salmonella enterica","Anatum; I 4,[5],12:i:-;","Confirmed; Confirmed; Confirmed","Restaurant - Sit-down dining; Private home/residence; Other (describe in remarks)",35,4,0,"beef; lamb; pork, roasted",NA
+2015,4,"Minnesota","Norovirus Genogroup II","GII_4 Sydney (2012)","Confirmed","Banquet Facility (food prepared and served on-site)",22,0,0,"cake, carrot",NA
+2012,5,"California","Salmonella enterica","Enteritidis","Confirmed","Private home/residence",38,1,0,"fajita, chicken","chicken"
+2014,11,"Multistate","Norovirus Genogroup I","GI_2","Confirmed","Restaurant - Sit-down dining; Caterer (food prepared off-site from where served)",22,0,0,"oysters, raw",NA
+2012,6,"California","Salmonella enterica","Agona; Infantis; Derby","Suspected; Confirmed; Confirmed","Private home/residence",23,2,0,"pork, roasted","pork"
+2012,6,"California","Salmonella enterica","Agona; Infantis; Derby","Suspected; Confirmed; Confirmed","Private home/residence",23,2,0,"pork, roasted","pork"
+2012,6,"California","Salmonella enterica","Agona; Infantis; Derby","Suspected; Confirmed; Confirmed","Private home/residence",23,2,0,"pork, roasted","pork"
+2015,5,"Ohio","Norovirus Genogroup II","GII_4 Sydney (2012)","Confirmed","Banquet Facility (food prepared and served on-site)",48,1,0,"salad","lettuce"
+2015,5,"Wisconsin","Salmonella enterica","I 4,[5],12:i:-","Confirmed","Grocery store",73,7,0,"pork, carnitas","pork"
+2014,12,"Massachusetts","Salmonella enterica","Typhimurium","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",57,6,0,"bacalhau a gomes de sa","fish, codfish"
+2015,5,"Tennessee","Norovirus Genogroup II","GII_4 New Orleans (2009);","Confirmed; Confirmed","Caterer (food prepared off-site from where served)",36,0,0,"pork tenderloin",NA
+2015,5,"Wisconsin","Norovirus Genogroup II","GII_4 Sydney (2012)","Confirmed","Caterer (food prepared off-site from where served)",24,0,0,"fruit salad",NA
+2015,5,"Maryland","Norovirus Genogroup I","other","Confirmed","Other (describe in remarks)",123,0,0,"strawberry sauce",NA
+2015,4,"Missouri","Salmonella enterica","Oranienburg; Oranienburg","Confirmed; Confirmed","Restaurant - Sit-down dining; Private home/residence; Grocery store",46,13,0,"eggs","egg"
+2015,4,"Missouri","Salmonella enterica","Oranienburg; Oranienburg","Confirmed; Confirmed","Restaurant - Sit-down dining; Private home/residence; Grocery store",46,13,0,"eggs","egg"
+2015,6,"Oregon","Salmonella enterica","Typhimurium","Confirmed","Caterer (food prepared off-site from where served); Fair, festival, other temp or mobile services",53,28,0,"thai food",NA
+2015,8,"Tennessee","Escherichia coli","unknown; unknown","Suspected; Suspected","Private home/residence; Caterer (food prepared off-site from where served)",90,0,0,"guacamole; corn salsa; tacos",NA
+2015,8,"Tennessee","Escherichia coli","unknown; unknown","Suspected; Suspected","Private home/residence; Caterer (food prepared off-site from where served)",90,0,0,"guacamole; corn salsa; tacos",NA
+2015,8,"Multistate","Salmonella enterica","Newport","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",119,17,0,"salsa","tomato"
+2015,8,"Illinois","Salmonella enterica","I 4,[5],12:i:-","Confirmed","Caterer (food prepared off-site from where served)",46,1,0,"roast beef with mushroom burgundy sauce",NA
+2015,3,"Multistate","Salmonella enterica","Newport","Confirmed","Unknown",25,3,0,"latin style soft cheese",NA
+2015,3,"Multistate","Salmonella enterica","Paratyphi B; Weltevreden","Confirmed; Confirmed","Restaurant - Sit-down dining; Grocery store; Office/indoor workplace",69,12,0,"tuna, raw",NA
+2015,3,"Multistate","Salmonella enterica","Paratyphi B; Weltevreden","Confirmed; Confirmed","Restaurant - Sit-down dining; Grocery store; Office/indoor workplace",69,12,0,"tuna, raw",NA
+2015,6,"North Carolina","Salmonella enterica","Typhimurium","Confirmed","Restaurant - Sit-down dining",283,27,1,"pork, bbq","pork"
+2015,10,"Michigan","Norovirus Genogroup I","GI_4","Confirmed","Banquet Facility (food prepared and served on-site)",170,1,0,"cheese and crackers; fruit; green beans, unspecified",NA
+2015,3,"Arizona","Salmonella enterica","Enteritidis","Confirmed","Banquet Facility (food prepared and served on-site)",38,1,0,"bruschetta","basil; bread; oil; tomato"
+2015,10,"Texas","Salmonella enterica","Norwich","Confirmed","Other (describe in remarks)",48,3,0,"turkey; stuffing/dressing",NA
+2015,10,"Connecticut","Norovirus Genogroup I","GI_5","Confirmed","School/college/university",54,0,0,"sandwich, unspecified",NA
+2015,10,"Nevada","Escherichia coli","O157:H7","Confirmed","Other (describe in remarks)",25,11,0,"chocolate mousse",NA
+2015,10,"Nevada","Shiga toxin-producing","O157:H7","Confirmed","Other (describe in remarks)",25,11,0,"chocolate mousse",NA
+2015,12,"Michigan","Norovirus Genogroup II","GII_17 Kawasaki (2014)","Confirmed","Private home/residence",73,0,0,"cake","frosting/icing"
+2015,8,"Multistate","Salmonella enterica","Enteritidis","Confirmed","Restaurant - Sit-down dining",81,2,0,"truffle olive puree",NA
+2015,12,"Connecticut","Norovirus Genogroup I","GI_5","Confirmed","Caterer (food prepared off-site from where served)",25,0,0,"multiple foods",NA
+2015,12,"Hawaii","Salmonella enterica","Heidelberg","Suspected","Restaurant - Sit-down dining",24,0,0,"lilikoi chiffon pie",NA
+2015,6,"Washington","Salmonella enterica","Enteritidis","Confirmed","Restaurant - Sit-down dining",22,1,0,"hollandaise sauce; eggs benedict",NA
+2015,3,"Idaho","Salmonella enterica","Enteritidis","Confirmed","Banquet Facility (food prepared and served on-site)",28,NA,0,"turkey, ground","turkey"
+2015,8,"Washington","Norovirus Genogroup II","GII_6","Confirmed","Restaurant - ""Fast-food""(drive up service or pay at counter)",22,0,0,"rice, brown; salsa; chicken",NA
+2015,2,"California","Salmonella enterica","Enteritidis","Confirmed; Suspected","Restaurant - Sit-down dining",21,0,0,"oysters, raw","oysters"
+2015,9,"Arizona","Salmonella enterica","Enteritidis","Confirmed","Prison/jail",252,0,0,"tossed salad","cabbage; iceberg lettuce"
+2015,4,"Multistate","Salmonella enterica","I 4,[5],12:i:-; Infantis","Confirmed; Confirmed","Restaurant - Sit-down dining; Private home/residence; Banquet Facility (food prepared and served on-site); Caterer (food prepared off-site from where served); Grocery store",192,30,0,"pork",NA
+2015,4,"Multistate","Salmonella enterica","I 4,[5],12:i:-; Infantis","Confirmed; Confirmed","Restaurant - Sit-down dining; Private home/residence; Banquet Facility (food prepared and served on-site); Caterer (food prepared off-site from where served); Grocery store",192,30,0,"pork",NA
+2015,7,"Multistate","Salmonella enterica","Poona","Confirmed",NA,907,204,6,"cucumber",NA
+2015,12,"Multistate","Salmonella enterica","Virchow","Confirmed","Private home/residence",35,6,0,"powder meal replacement","moringa leaf powder"
