@@ -1,0 +1,218 @@
+<svelte:head>
+	<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+
+	<script>
+		// define access token
+		mapboxgl.accessToken =
+			'pk.eyJ1IjoibWVsaXNzYWFhYWgiLCJhIjoiY2xpbWFkNmNiMGJvNzNobjJqeXlrbG9paiJ9.MJ2IG8MIKLcgbfjVgRiRBQ';
+
+		// create map
+		const map = new mapboxgl.Map({
+			container: 'map', // container id
+			style: 'mapbox://styles/examples/cjgioozof002u2sr5k7t14dim' // map style URL from Mapbox Studio
+		});
+
+		// wait for map to load before adjusting it
+		map.on('load', () => {
+			// make a pointer cursor
+			map.getCanvas().style.cursor = 'default';
+
+			// set map bounds to the continental US
+			map.fitBounds([
+				[-133.2421875, 16.972741],
+				[-47.63671875, 52.696361]
+			]);
+
+			// define layer names
+			const layers = [
+				'0-10',
+				'10-20',
+				'20-50',
+				'50-100',
+				'100-200',
+				'200-500',
+				'500-1000',
+				'1000+'
+			];
+			const colors = [
+				'#FFEDA0',
+				'#FED976',
+				'#FEB24C',
+				'#FD8D3C',
+				'#FC4E2A',
+				'#E31A1C',
+				'#BD0026',
+				'#800026'
+			];
+
+			// create legend
+			const legend = document.getElementById('legend');
+
+			layers.forEach((layer, i) => {
+				const color = colors[i];
+				const item = document.createElement('div');
+				const key = document.createElement('span');
+				key.className = 'legend-key';
+				key.style.backgroundColor = color;
+
+				const value = document.createElement('span');
+				value.innerHTML = `${layer}`;
+				item.appendChild(key);
+				item.appendChild(value);
+				legend.appendChild(item);
+			});
+
+			// change info window on hover
+			map.on('mousemove', (event) => {
+				const states = map.queryRenderedFeatures(event.point, {
+					layers: ['statedata']
+				});
+				document.getElementById('pd').innerHTML = states.length
+					? `<h3>${states[0].properties.name}</h3><p><strong><em>${states[0].properties.density}</strong> people per square mile</em></p>`
+					: `<p>Hover over a state!</p>`;
+			});
+		});
+	</script>
+</svelte:head>
+
+<link href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css" rel="stylesheet" />
+
+<div id="map" />
+<div class="map-overlay" id="features">
+	<h2>US population density</h2>
+	<div id="pd">
+		<p>Hover over a state!</p>
+	</div>
+</div>
+<div class="map-overlay" id="legend" />
+
+<style>
+	body {
+		margin: 0;
+		padding: 0;
+	}
+
+	h2,
+	h3 {
+		margin: 10px;
+		font-size: 18px;
+	}
+
+	h3 {
+		font-size: 16px;
+	}
+
+	p {
+		margin: 10px;
+	}
+
+	.map-overlay {
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		background: #fff;
+		margin-right: 20px;
+		font-family: Arial, sans-serif;
+		overflow: auto;
+		border-radius: 3px;
+	}
+
+	#map {
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		width: 100%;
+	}
+
+	#features {
+		top: 0;
+		height: 100px;
+		margin-top: 20px;
+		width: 250px;
+	}
+
+	#legend {
+		padding: 10px;
+		box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+		line-height: 18px;
+		height: 150px;
+		margin-bottom: 40px;
+		width: 100px;
+	}
+
+	.legend-key {
+		display: inline-block;
+		border-radius: 20%;
+		width: 10px;
+		height: 10px;
+		margin-right: 5px;
+	}
+
+	body {
+		margin: 0;
+		padding: 0;
+	}
+
+	h2,
+	h3 {
+		margin: 10px;
+		font-size: 18px;
+	}
+
+	h3 {
+		font-size: 16px;
+	}
+
+	p {
+		margin: 10px;
+	}
+
+	/**
+  * Create a position for the map
+  * on the page */
+	#map {
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		width: 100%;
+	}
+
+	/**
+  * Set rules for how the map overlays
+  * (information box and legend) will be displayed
+  * on the page. */
+	.map-overlay {
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		background: #fff;
+		margin-right: 20px;
+		font-family: Arial, sans-serif;
+		overflow: auto;
+		border-radius: 3px;
+	}
+
+	#features {
+		top: 0;
+		height: 100px;
+		margin-top: 20px;
+		width: 250px;
+	}
+
+	#legend {
+		padding: 10px;
+		box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+		line-height: 18px;
+		height: 150px;
+		margin-bottom: 40px;
+		width: 100px;
+	}
+
+	.legend-key {
+		display: inline-block;
+		border-radius: 20%;
+		width: 10px;
+		height: 10px;
+		margin-right: 5px;
+	}
+</style>
